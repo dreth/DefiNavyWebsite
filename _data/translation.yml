@@ -1,0 +1,20 @@
+# English (default)
+
+en:
+  previous:                   "Previous"
+  next:                       "Next"
+  related_links:              "Related Links"
+  related_posts:              "Related Posts"
+  read_more:                  "Read more"
+  written_by:                 "Written by"
+  share_twitter:              "Share on Twitter"
+  share_facebook:             "Share on Facebook"
+  search_placeholder:         "For example: dapps, dexes, dashboards..."
+  search_no_results:          "No results found"
+  mobile_nav_links:           "Links"
+  mobile_nav_site:            "Menu"
+  contact_name:               "Name"
+  contact_email:              "Email"
+  contact_subject:            "Subject"
+  contact_message:            "Message"
+  contact_send:               "Send"

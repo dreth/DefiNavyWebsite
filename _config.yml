@@ -1,0 +1,124 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site title and description
+title:              DeFi⚓Navy
+description:        Links to the world of DeFi and more cool stuff.
+lang:               en
+
+# Site subpath, e.g. /blog
+baseurl:            ""
+
+# Permalink URLs structure, for permalink style options see: https://jekyllrb.com/docs/permalinks/
+permalink:          /:title/
+
+# Site base hostname & protocol, e.g. http://example.com
+url:                "https://defi.navy"
+
+# Site logo # e.g. logo.png, upload logo image file to /uploads/ folder
+logo:               
+
+navbar:
+    sticky:         true
+    search:         true
+  
+# Default author settings
+author:
+    name:           DeFi Navy team
+    title:          Devs 
+    avatar:         company_logo_white.png
+
+# Author settings, displayed on post and doc pages if front matter references author name e.g. author: peter
+authors:
+    definavy:
+      name:         DeFi Navy team
+      title:        Devs    
+      avatar:       company_logo_white.png
+
+
+# Social icons displayed in footer
+social:
+    email:          team@defi.navy
+    website:        https://defi.navy
+    facebook:       
+    flickr:
+    dribbble:
+    github:         https://github.com/definavy
+    googleplus:
+    instagram:      
+    linkedin:
+    pinterest:
+    twitter:        https://twitter.com/definavy
+    vimeo:          
+    youtube:
+    discord:        https://discord.gg/BzYsp6gSXy
+
+# Share button
+share:
+    post:           true # Display share buttons on a post page
+    doc:            false # Display share buttons on a doc page
+    twitter:        definavy # Enable by adding Twitter handle 
+    facebook:       true # Enable by setting true (Facebook handle not required)
+
+# Default footer image settings
+footer:
+    copyright:      Made by the <a href="https://defi.navy/">Defi⚓Navy</a> team with love.
+
+# Disqus comments shortname, requires Disqus account https://disqus.com/
+disqus:
+    shortname:      # 1234
+
+# Google analytics code, get your code here https://www.google.com/analytics/
+google_analytics:   G-2NHRFL6P86
+
+# Number of posts displayed on blog page
+paginate:           10
+
+# Blog path
+paginate_path:      "/blog/:num/"
+
+# Path to post content assets directory i.e post images, pdfs etc
+uploads:            /uploads/
+
+# Build settings
+markdown:           kramdown
+highlighter:        rouge
+
+gems:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-gist
+  - jekyll-avatar
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+
+sass:
+  style:            compressed
+
+collections:
+  links:
+    output:         true
+  faqs:
+    output:         false
+  changelogs:
+    output:         false
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path:         ""
+      type:         posts
+    values:
+      layout:       post
+  # _docs
+  - scope:
+      path:         ""
+      type:         links
+    values:
+      layout:       doc

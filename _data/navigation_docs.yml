@@ -1,0 +1,26 @@
+- title: dApps
+  links:
+  - dapps_dexes
+  - dapps_lending
+  - dapps_assets
+  - dapps_indexes
+  - dapps_insurance
+  - dapps_options
+  - dapps_staking
+  - dapps_yield
+  - dapps_domain
+  - dapps_nfts
+
+- title: Communities
+  links:
+  - communities_reddit
+  - communities_other_sites
+
+- title: Utilities
+  links:
+  - utilities_block_explorers
+  - utilities_development
+  - utilities_jobs
+  - utilities_misc_useful_sites
+  - utilities_price_tracking
+  - utilities_wallets

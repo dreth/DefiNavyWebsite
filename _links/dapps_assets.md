@@ -1,0 +1,41 @@
+---
+title: "Assets"
+tags: [dapps]
+subtitle: Dapps that allow cross-chain asset representation are an example of this type of dapp.
+---
+
+- [WBTC](https://wbtc.network/){:target="_blank"}
+- [MultiChain, (prev. AnySwap)](https://multichain.org/){:target="_blank"}
+- [hBTC](https://www.hbtc.finance/){:target="_blank"}
+- [JustStables](https://juststable.tronscan.org/#/login){:target="_blank"}
+- [RenVM](https://renproject.io/){:target="_blank"}
+- [Neutrino](https://neutrino.at){:target="_blank"}
+- [Olympus DAO](https://olympusdao.finance/){:target="_blank"}
+- [Mars Ecosystem](https://marsecosystem.com/home){:target="_blank"}
+- [pNetwork](https://p.network){:target="_blank"}
+- [KEEP Network](https://tbtc.network/){:target="_blank"}
+- [Reflexer](https://reflexer.finance/){:target="_blank"}
+- [Wonderland](https://www.wonderland.money){:target="_blank"}
+- [Secret Bridge](https://scrt.network/){:target="_blank"}
+- [Fei Protocol](https://fei.money/){:target="_blank"}
+- [Metronome](https://metronome.io/){:target="_blank"}
+- [imToken](https://token.im/){:target="_blank"}
+- [Composable Finance](https://www.composable.finance){:target="_blank"}
+- [Youves](https://app.youves.com){:target="_blank"}
+- [Iron Finance](https://iron.finance/){:target="_blank"}
+- [Beanstalk](https://bean.money){:target="_blank"}
+- [Reserve](https://reserve.org){:target="_blank"}
+- [Charm Finance](https://charm.fi/){:target="_blank"}
+- [Allbridge](https://allbridge.io){:target="_blank"}
+- [Scientix](https://scientix.finance){:target="_blank"}
+- [cVault.finance](https://cvault.finance/){:target="_blank"}
+- [Dopple Finance](https://dopple.finance/){:target="_blank"}
+- [BondAppetit](https://bondappetit.io/){:target="_blank"}
+- [Strudel Finance](https://strudel.finance){:target="_blank"}
+- [Volmex](https://volmex.finance/){:target="_blank"}
+- [WitSwap](https://witswap.com/){:target="_blank"}
+- [BTC Proxy](https://btcpx.io){:target="_blank"}
+- [Basis Cash](https://basis.cash/){:target="_blank"}
+- [QIAN](https://qian.finance/){:target="_blank"}
+- [Origin Dollar](https://www.ousd.com){:target="_blank"}
+- [Kuu Finance](https://kuu.finance){:target="_blank"}

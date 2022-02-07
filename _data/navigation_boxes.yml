@@ -1,0 +1,62 @@
+# Boxes include navigation
+
+- title: Decentralized exchanges
+  desc: Perform token swaps
+  icon: refresh
+  doc: dapps_dexes
+
+- title: Lending protocols
+  desc: Lend and borrow
+  icon: credit-card
+  doc: dapps_lending
+
+- title: Yield protocols
+  desc: Gain yield on your liquidity
+  icon: bolt
+  doc: dapps_yield
+
+- title: Insurance protocols
+  desc: Protect your investment
+  icon: lock
+  doc: dapps_insurance
+
+- title: NFT-related sites
+  desc: Collectibles, gaming, etc...
+  icon: image
+  doc: dapps_nfts
+
+- title: Staking protocols
+  desc: Gain interest securing blockchains
+  icon: server
+  doc: dapps_staking
+
+- title: Assets
+  desc: Cross-chain assets
+  icon: social
+  doc: dapps_assets
+
+- title: Reddit communities
+  desc: DeFi and crypto-related subreddits
+  icon: users
+  doc: communities_reddit
+
+- title: Options
+  desc: dApps to trade options
+  icon: future
+  doc: dapps_options
+
+- title: Crypto domain names
+  desc: Like yourname.eth
+  icon: world
+  doc: dapps_domain
+
+- title: Block explorers
+  desc: Explore different blockchains
+  icon: thumbnails
+  doc: utilities_block_explorers
+
+- title: Contribute
+  desc: Help us make DeFi easier to explore
+  icon: heart
+  doc: contribute
+  external: https://defi.navy/contributionguide/

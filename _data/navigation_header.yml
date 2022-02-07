@@ -1,0 +1,65 @@
+# Navbar left menu navigation links
+
+left:
+  - title: Home
+    url: /
+
+  - title: Links
+    url: /links/welcome
+
+  - title: Blog
+    url: /blog/
+
+
+
+# Navbar right menu navigation links
+
+right:
+
+  # - title: Changelog
+  #   url: /changelog-timeline/
+  #   button: primary-outline
+
+  # - title: Contact us
+  #   url: /contact/
+  #   button: primary-outline
+
+  - title: Add your link
+    url: https://github.com/DefiNavy/website/blob/main/README.md
+    button: danger-outline
+
+  # - title: Contact
+  #   url: /contact/
+  #   button: primary
+
+  # - title: Changelog
+  #   url: /contact/
+  #   button: secondary
+
+  # - title: Contact
+  #   url: /contact/
+  #   button: danger
+
+  # - title: Changelog
+  #   url: /contact/
+  #   button: success
+
+  # - title: Contact
+  #   url: /contact/
+  #   button: warning
+
+  # - title: Changelog
+  #   url: /contact/
+  #   button: primary-outline
+
+  # - title: Contact
+  #   url: /contact/
+  #   button: danger-outline
+
+  # - title: Changelog
+  #   url: /contact/
+  #   button: success-outline
+
+  # - title: Contact
+  #   url: /contact/
+  #   button: warning-outline

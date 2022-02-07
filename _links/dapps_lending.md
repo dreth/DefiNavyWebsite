@@ -1,0 +1,77 @@
+---
+title: "Lending protocols"
+tags: [dapps]
+subtitle: A lending protocol allows lending crypto assets to gain interest on borrows or to borrow crypto at an interest rate usually with collateral.
+---
+
+- [AAVE](https://aave.com){:target="_blank"}
+- [Compound](https://compound.finance){:target="_blank"}
+- [Anchor](https://anchorprotocol.com/){:target="_blank"}
+- [Abracadabra](https://abracadabra.money/){:target="_blank"}
+- [Venus](https://venus.io/){:target="_blank"}
+- [CREAM Finance](https://cream.finance/){:target="_blank"}
+- [Geist Finance](https://geist.finance){:target="_blank"}
+- [Benqi](https://benqi.fi){:target="_blank"}
+- [TrueFi](https://truefi.io/){:target="_blank"}
+- [Qubit](https://qbt.fi){:target="_blank"}
+- [Scream](https://scream.sh/){:target="_blank"}
+- [Kava](https://www.kava.io/){:target="_blank"}
+- [Larix](https://projectlarix.com){:target="_blank"}
+- [Vires Finance](https://vires.finance){:target="_blank"}
+- [dForce](https://dforce.network/){:target="_blank"}
+- [Maple](https://www.maple.finance){:target="_blank"}
+- [Port Finance](https://port.finance){:target="_blank"}
+- [Channels Finance](https://channels.finance){:target="_blank"}
+- [bZx](https://bzx.network/){:target="_blank"}
+- [Solend](https://solend.fi){:target="_blank"}
+- [Mango Markets](https://mango.markets){:target="_blank"}
+- [LendHub](https://www.lendhub.org){:target="_blank"}
+- [Omm](https://omm.finance){:target="_blank"}
+- [FilDA](https://filda.io/){:target="_blank"}
+- [Wild Credit](https://wild.credit){:target="_blank"}
+- [Beta Finance](https://betafinance.org){:target="_blank"}
+- [B.Protocol](https://www.bprotocol.org/){:target="_blank"}
+- [Ramp](https://www.rampdefi.com){:target="_blank"}
+- [Wing Finance](https://wing.finance){:target="_blank"}
+- [QiDao](https://app.mai.finance){:target="_blank"}
+- [ForTube](https://for.tube/){:target="_blank"}
+- [WePiggy](https://www.wepiggy.com/){:target="_blank"}
+- [OnX.Finance](https://onx.finance){:target="_blank"}
+- [Inverse Finance](https://inverse.finance/){:target="_blank"}
+- [Mimo Defi](https://mimo.capital){:target="_blank"}
+- [Rabbit Finance](https://www.rabbitfinance.io/earn){:target="_blank"}
+- [Flux Protocol](https://flux.01.finance){:target="_blank"}
+- [Annex](https://www.annex.finance){:target="_blank"}
+- [Goldfinch](https://goldfinch.finance){:target="_blank"}
+- [Karura Dollar](https://acala.network/karura){:target="_blank"}
+- [Strike](https://strike.org){:target="_blank"}
+- [Hundred Finance](https://hundred.finance){:target="_blank"}
+- [Liqee](https://liqee.io){:target="_blank"}
+- [Jet](https://www.jetprotocol.io){:target="_blank"}
+- [MochiFi](https://mochi.fi){:target="_blank"}
+- [unFederalReserve](https://www.unfederalreserve.com){:target="_blank"}
+- [Alkemi](https://alkemi.network){:target="_blank"}
+- [Trava Finance](https://trava.finance){:target="_blank"}
+- [Moola Market](https://moola.market){:target="_blank"}
+- [Notional](https://notional.finance/){:target="_blank"}
+- [NAOS Finance](https://naos.finance){:target="_blank"}
+- [Augmented Finance](https://augmented.finance){:target="_blank"}
+- [Pilot Protocol](https://p.td){:target="_blank"}
+- [Paladin Finance](https://www.paladin.vote){:target="_blank"}
+- [CHFRY Finance](https://chfry.finance){:target="_blank"}
+- [Pizza](https://pizza.finance){:target="_blank"}
+- [Oxygen](https://www.oxygen.org/){:target="_blank"}
+- [Warp Protocol](https://www.warp.finance){:target="_blank"}
+- [Ram Protocol](https://rammer.finance/#/){:target="_blank"}
+- [Genshiro](https://genshiro.equilibrium.io){:target="_blank"}
+- [DeFiner](https://definer.org/){:target="_blank"}
+- [Fuji DAO](https://www.fujidao.org){:target="_blank"}
+- [Multiplier](https://multiplier.finance){:target="_blank"}
+- [Vigor](https://vigor.ai){:target="_blank"}
+- [OrcaDAO](https://www.avai.finance){:target="_blank"}
+- [Poof Cash](https://www.poof.cash){:target="_blank"}
+- [Acumen](https://acumen.network){:target="_blank"}
+- [Mensa Protocol](https://www.mensapro.com){:target="_blank"}
+- [Vee Finance](https://vee.finance/home){:target="_blank"}
+- [Ruler](https://rulerprotocol.com/){:target="_blank"}
+- [Agave](https://agave.finance){:target="_blank"}

@@ -1,0 +1,18 @@
+# Mobile menu navigation links
+
+- title: Home
+  url: /
+
+- title: links
+  url: /links/welcome
+
+- title: Blog
+  url: /blog/
+
+- title: Contact
+  url: /contact/
+  button: primary
+
+- title: Add your link
+  url: https://github.com/DefiNavy/website/blob/main/README.md
+  button: danger
