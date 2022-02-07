@@ -25,7 +25,7 @@ right:
   #   button: primary-outline
 
   - title: Add your link
-    url: https://github.com/DefiNavy/website/blob/main/README.md
+    url: https://github.com/DefiNavy/contributions/issues
     button: danger-outline
 
   # - title: Contact
