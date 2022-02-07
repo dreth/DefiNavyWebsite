@@ -10,7 +10,7 @@ To visualize the site locally and be able to make changes to it you need to have
 After this, clone the repo on your pc:
 
 ```bash
-git clone https://github.com/DefiNavy/website
+git clone https://github.com/dreth/DefiNavyWebsite
 ```
 
 Then open the console where you cloned the repo after cloning and install all the packages using `bundle install`
@@ -28,4 +28,3 @@ bundle exec jekyll serve
 Make your changes!
 
 As long as `bundle exec jekyll serve` is running, you can locally see changes to the page on `http://127.0.0.1:4000/` (or whatever local address you have configured) and the changes will be reflected on the `_site` folder, which is where all the changes made to pages are compiled to html files.
-
