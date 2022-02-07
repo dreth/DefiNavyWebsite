@@ -4,6 +4,16 @@ tags: [utilities]
 subtitle: Useful miscellaneous DeFi and crypto related websites people and organizations build.
 ---
 
+### Ethereum client diversity tracking websites
+
+- [ClientDiversity.org](https://clientdiversity.org/){:target="_blank"}
+- [Stereum client diversity watch](https://stereum.net/client-diversity-watch/){:target="_blank"}
+- [Slashed.info, slashing penalties per client](https://www.slashed.info/){:target="_blank"}
+
+### Ethereum node data
+
+- [NodeWatch](https://www.nodewatch.io/){:target="_blank"}
+
 ### L2 and rollup-related sites
 
 - [L2Beat, L2 analytics and info](https://l2beat.com/){:target="_blank"}
