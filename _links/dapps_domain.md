@@ -5,4 +5,4 @@ subtitle: A domain is a human-readable identification string that defines a loca
 ---
 
 - [ENS Domains](https://ens.domains){:target="_blank"}
-- [Unstoppable Domains](https://unstoppabledomains.com/){:target="_blank"} (not recommended)
+- [Unstoppable Domains](https://unstoppabledomains.com/){:target="_blank"} 
