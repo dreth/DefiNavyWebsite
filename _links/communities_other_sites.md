@@ -4,4 +4,4 @@ tags: [communities]
 subtitle: Other sites on the internet that host popular DeFi, blockchain and crypto-related communities.
 ---
 
-- [4chan's /biz/](https://boards.4channel.org/biz/){:target="_blank"}
+- [4chan's /biz/](https://boards.4channel.org/biz/catalog){:target="_blank"}
