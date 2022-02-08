@@ -5,6 +5,7 @@ title: Link formatting tool
 
 <script>
   function formatLink() {
+    
     var formattedLinks = '';
     
     var linksLabels = document.getElementById('linksLabels').value.replace(/\r\n/g,"\n").split("\n");
@@ -15,7 +16,12 @@ title: Link formatting tool
 
     if (LinksLabelsLength == LinksContentLength) {
         for (var i = 0; i < LinksLabelsLength; i++) {
+          if (i == 0) {
+            formattedLinks = `- [${linksLabels[i]}](${linksContent[i]}){:target="_blank"}`
+          } else {
             formattedLinks = `${formattedLinks}\n- [${linksLabels[i]}](${linksContent[i]}){:target="_blank"}`
+          }
+            
         }
 
         document.getElementById('formattedLinks').value = formattedLinks;
@@ -28,19 +34,21 @@ title: Link formatting tool
 
       <h1 class="uk-article-title uk-text-center">{{ page.title | escape }}</h1>
 
-      To get the links formatted as they should
+      <p>Corresponding lines in the Link Labels and Link Contents text fields will be joined together with the correct formatting in the last text area box.</p>
+
+      <p>Always make sure the amount of items in the Link Labels and Link Contents text boxes match!</p>
 
       <h3 class="uk-h3 uk-text-center">Link labels</h3>
 
-      Text that will be displayed on each link
+      <p>Text that will be displayed on each link</p>
 
-      <textarea class="uk-textarea uk-form-large uk-border-rounded" rows=5 id='linksLabels' oninput="formatLink()"></textarea>
+      <textarea class="uk-textarea uk-form-large uk-border-rounded" rows=5 id='linksLabels' oninput="formatLink()" onchange="formatLink()"></textarea>
 
       <h3 class="uk-h3 uk-text-center">Link Contents</h3>
 
-      Links for each of the sites
+      <p>Links for each of the sites</p>
       
-      <textarea class="uk-textarea uk-form-large uk-border-rounded" rows=5 id='linksContent' oninput="formatLink()"></textarea>
+      <textarea class="uk-textarea uk-form-large uk-border-rounded" rows=5 id='linksContent' oninput="formatLink()" onchange="formatLink()"></textarea>
 
       <h3 class="uk-h3 uk-text-center">Resulting links formatted correctly</h2>
 
