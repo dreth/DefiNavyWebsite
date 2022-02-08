@@ -1,0 +1,51 @@
+---
+layout: default
+title: Link formatting tool
+---
+
+<script>
+  function formatLink() {
+    var formattedLinks = '';
+    
+    var linksLabels = document.getElementById('linksLabels').value.replace(/\r\n/g,"\n").split("\n");
+    var linksContent = document.getElementById('linksContent').value.replace(/\r\n/g,"\n").split("\n");
+
+    var LinksLabelsLength = linksLabels.length;
+    var LinksContentLength = linksContent.length;
+
+    if (LinksLabelsLength == LinksContentLength) {
+        for (var i = 0; i < LinksLabelsLength; i++) {
+            formattedLinks = `${formattedLinks}\n- [${linksLabels[i]}](${linksContent[i]}){:target="_blank"}`
+        }
+
+        document.getElementById('formattedLinks').value = formattedLinks;
+    }
+}
+</script>
+
+<div class="uk-section">
+  <div class="uk-container uk-container-xsmall">
+
+      <h1 class="uk-article-title uk-text-center">{{ page.title | escape }}</h1>
+
+      To get the links formatted as they should
+
+      <h3 class="uk-h3 uk-text-center">Link labels</h3>
+
+      Text that will be displayed on each link
+
+      <textarea class="uk-textarea uk-form-large uk-border-rounded" rows=5 id='linksLabels' oninput="formatLink()"></textarea>
+
+      <h3 class="uk-h3 uk-text-center">Link Contents</h3>
+
+      Links for each of the sites
+      
+      <textarea class="uk-textarea uk-form-large uk-border-rounded" rows=5 id='linksContent' oninput="formatLink()"></textarea>
+
+      <h3 class="uk-h3 uk-text-center">Resulting links formatted correctly</h2>
+
+      <textarea class="uk-textarea uk-form-large uk-border-rounded" rows=5 id='formattedLinks'></textarea>
+
+  </div>
+</div>
+
