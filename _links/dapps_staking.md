@@ -7,6 +7,7 @@ subtitle: Staking protocols create the opportunity to stake native tokens to sec
 - [StakeWise](https://stakewise.io/){:target="_blank"}
 - [Rocket Pool](https://rocketpool.net/){:target="_blank"}
 - [Lido](https://lido.fi/){:target="_blank"}
+- [Blox Staking](https://www.bloxstaking.com/){:target="_blank"}
 - [Marinade Finance](https://marinade.finance){:target="_blank"}
 - [Ankr](https://www.ankr.com/){:target="_blank"}
 - [Socean](https://www.socean.fi){:target="_blank"}
@@ -28,7 +29,6 @@ subtitle: Staking protocols create the opportunity to stake native tokens to sec
 - [TotemFi](https://totemfi.com){:target="_blank"}
 - [BorgSwap](https://borgswap.exchange){:target="_blank"}
 - [Sunrise Gaming](https://sunrisegaming-dao.com){:target="_blank"}
-- [ShapeShift](https://shapeshift.com){:target="_blank"}
 - [Keep3r Network](https://keep3r.network){:target="_blank"}
 - [StakeHound](https://stakehound.com/){:target="_blank"}
 - [SYNC Network](https://syncbond.com/){:target="_blank"}
