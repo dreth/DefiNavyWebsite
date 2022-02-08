@@ -6,20 +6,18 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <!-- Begin Jekyll SEO tag v2.6.1 -->
-<title>Contribution guide | DeFi⚓Navy</title>
+<title>Link formatting tool | DeFi⚓Navy</title>
 <meta name="generator" content="Jekyll v3.8.7" />
-<meta property="og:title" content="Contribution guide" />
-<meta name="author" content="definavy" />
+<meta property="og:title" content="Link formatting tool" />
+<meta name="author" content="DeFi Navy team" />
 <meta property="og:locale" content="en" />
-<meta name="description" content="How do I contribute to DeFi Navy?" />
-<meta property="og:description" content="How do I contribute to DeFi Navy?" />
-<link rel="canonical" href="http://localhost:4000/contributionguide/" />
-<meta property="og:url" content="http://localhost:4000/contributionguide/" />
+<meta name="description" content="Links to the world of DeFi and more cool stuff." />
+<meta property="og:description" content="Links to the world of DeFi and more cool stuff." />
+<link rel="canonical" href="http://localhost:4000/linktool/" />
+<meta property="og:url" content="http://localhost:4000/linktool/" />
 <meta property="og:site_name" content="DeFi⚓Navy" />
-<meta property="og:type" content="article" />
-<meta property="article:published_time" content="2021-10-30T00:00:00+02:00" />
 <script type="application/ld+json">
-{"@type":"BlogPosting","headline":"Contribution guide","dateModified":"2021-10-30T00:00:00+02:00","datePublished":"2021-10-30T00:00:00+02:00","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/contributionguide/"},"url":"http://localhost:4000/contributionguide/","author":{"@type":"Person","name":"definavy"},"description":"How do I contribute to DeFi Navy?","@context":"https://schema.org"}</script>
+{"@type":"WebPage","headline":"Link formatting tool","url":"http://localhost:4000/linktool/","author":{"@type":"Person","name":"DeFi Navy team"},"description":"Links to the world of DeFi and more cool stuff.","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   <meta property="og:image" content="http://localhost:4000/uploads/"/>
@@ -228,120 +226,52 @@ function searchResults(form) {
 </div>
     
 
-    <div class="uk-section">
-    <div class="uk-container uk-container-xsmall">
-        <article class="uk-article">
-
-            <h1 class="uk-article-title">Contribution guide</h1>
-
-            <div class="uk-article-meta uk-margin-top uk-margin-medium-bottom uk-flex uk-flex-middle">
-                <!--  -->
-
-<!-- 
-  
-  <img class="uk-border-circle avatar" src="http://localhost:4000/uploads/company_logo_white.png" alt="DeFi Navy team">
- -->
-
-<!-- <div>
-  
-    Written by <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">DeFi Navy team</span></span><br>
-  
-  <time datetime="2021-10-30T00:00:00+02:00" itemprop="datePublished">
+    <script>
+  function formatLink() {
+    var formattedLinks = '';
     
-    Last updated: 2021-10-30
-  </time>
-</div> -->
+    var linksLabels = document.getElementById('linksLabels').value.replace(/\r\n/g,"\n").split("\n");
+    var linksContent = document.getElementById('linksContent').value.replace(/\r\n/g,"\n").split("\n");
 
-            </div>
+    var LinksLabelsLength = linksLabels.length;
+    var LinksContentLength = linksContent.length;
 
-            <div class="article-content link-primary">
-                <h2 id="how-do-i-contribute-to-defi-navy">How do I contribute to DeFi Navy?</h2>
+    if (LinksLabelsLength == LinksContentLength) {
+        for (var i = 0; i < LinksLabelsLength; i++) {
+            formattedLinks = `${formattedLinks}\n- [${linksLabels[i]}](${linksContent[i]}){:target="_blank"}`
+        }
 
-<p>By adding more links to cool/useful DeFi and crypto-related sites and apps, helping us correct links, or… anything!</p>
+        document.getElementById('formattedLinks').value = formattedLinks;
+    }
+}
+</script>
 
-<p>Check out the <a href="https://github.com/DefiNavy/website-contributions"><strong><em>contribution repo</em></strong></a> on our Github for more instructions.</p>
+<div class="uk-section">
+  <div class="uk-container uk-container-xsmall">
 
+      <h1 class="uk-article-title uk-text-center">Link formatting tool</h1>
 
-                
-                    <div class="share uk-text-center uk-margin-medium-top">
-    
-        <a class="uk-link-muted" href="https://twitter.com/intent/tweet?text=Contribution guide&url=http://localhost:4000/contributionguide/&via=&related=" rel="nofollow" target="_blank" title="Share on Twitter" onclick="window.open(this.href, 'twitter', 'width=550,height=235');return false;"><span data-uk-icon="icon: twitter; ratio: 1.2"></span></a>
-    
-    
-        <a class="uk-link-muted uk-margin-small-left" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Flocalhost%3A4000%2Fcontributionguide%2F" rel="nofollow" target="_blank" title="Share on Facebook" onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;"><span data-uk-icon="icon: facebook; ratio: 1.2"></span></a>
-    
+      To get the links formatted as they should
+
+      <h3 class="uk-h3 uk-text-center">Link labels</h3>
+
+      Text that will be displayed on each link
+
+      <textarea class="uk-textarea uk-form-large uk-border-rounded" rows=5 id='linksLabels' oninput="formatLink()"></textarea>
+
+      <h3 class="uk-h3 uk-text-center">Link Contents</h3>
+
+      Links for each of the sites
+      
+      <textarea class="uk-textarea uk-form-large uk-border-rounded" rows=5 id='linksContent' oninput="formatLink()"></textarea>
+
+      <h3 class="uk-h3 uk-text-center">Resulting links formatted correctly</h2>
+
+      <textarea class="uk-textarea uk-form-large uk-border-rounded" rows=5 id='formattedLinks'></textarea>
+
+  </div>
 </div>
-                
-            </div>
 
-            <hr class="uk-margin-medium">
-
-            <!-- <div class="uk-margin-large-top paginate-post">
-    <div class="uk-child-width-expand@s uk-grid-large uk-pagi" data-uk-grid>
-        <div>
-            
-        </div>
-        <div>
-            
-                <h4>Welcome to DeFi Navy</h4>
-                <div class="uk-visible@s uk-text-muted uk-text-small"><h2 id="our-experiment">Our experiment</h2>
-
-</div>
-                <div class="uk-text-right"><a class="remove-underline hvr-forward" href="/welcome/">Next &rarr;</a></div>
-            
-        </div>
-    </div>
-</div> -->
-
-
-            <!-- <div class="uk-margin-large-top">
-    <h3>Related Posts</h3>
-
-    
-    
-    
-
-    <ul class="uk-list link-secondary">
-    
-
-    
-    
-
-    
-
-    
-        <li><a href="/welcome/">Welcome to DeFi Navy</a></li>
-        
-        
-    
-
-    
-
-    
-    
-
-    
-
-    
-
-    
-    </ul>
-</div> -->
-
-
-            
-        </article>
-
-        <script>
-            // Table of contents scroll to
-            UIkit.scroll('#markdown-toc a', {
-                duration: 400,
-                offset: 120
-            });
-        </script>
-
-    </div>
-</div>
 
 
     <div id="offcanvas-docs" data-uk-offcanvas="overlay: true">
