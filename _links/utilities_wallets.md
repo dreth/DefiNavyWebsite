@@ -14,9 +14,10 @@ subtitle: Links to cryptocurrency wallet services, software and hardware wallet 
 
 ### Ethereum and EVM-compatible blockchains
 
-- [MyEtherWallet](https://www.myetherwallet.com/){:target="_blank"}
+- [Gnosis Safe](https://gnosis-safe.io/){:target="_blank"}
 - [Metamask](https://metamask.io/){:target="_blank"}
-- [Coinbase Wallet](https://www.coinbase.com/wallet)
+- [MyEtherWallet](https://www.myetherwallet.com/){:target="_blank"}
+- [Coinbase Wallet](https://www.coinbase.com/wallet){:target="_blank"}
 - [Argent](https://www.argent.xyz/){:target="_blank"}
 - [TrustWallet](https://trustwallet.com/){:target="_blank"}
 - [Monolith](https://monolith.xyz/){:target="_blank"}
@@ -24,7 +25,6 @@ subtitle: Links to cryptocurrency wallet services, software and hardware wallet 
 - [imToken](https://token.im/){:target="_blank"}
 - [Pillar](https://pillarproject.io/){:target="_blank"}
 - [Crypto.com DeFi wallet](https://crypto.com/){:target="_blank"}
-- [Gnosis Safe](https://gnosis-safe.io/){:target="_blank"}
 - [Loopring wallet](https://loopring.io/){:target="_blank"}
 - [TokenPocket](https://tokenpocket.pro/){:target="_blank"}
 - [ONTO](https://onto.app/){:target="_blank"}
