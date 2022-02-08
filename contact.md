@@ -1,12 +1,13 @@
 ---
 layout: page
 width: xsmall
-title: Got Any Questions
+title: Contact us
 permalink: /contact/
 ---
 
-##### Morbi varius in accumsan blandit, elit ligula velit, luctus mattis ante nulla nulla.
+##### Contact us
 
-Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
+* For any website contribution **please use this [github issues page](https://github.com/DefiNavy/website-contributions)**
+* For any community-related matters, you can **join our [discord server](https://discord.gg/BzYsp6gSXy)**
 
-{% include formspree.html email="my_name@gmail.com" redirect="/thanks/" name="true" subject="true" %}
+Otherwise, if you still need/want to directly contact us, you can click [here](mailto:team@defi.navy) to send us an email.

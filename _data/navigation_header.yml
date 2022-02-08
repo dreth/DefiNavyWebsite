@@ -25,7 +25,7 @@ right:
   #   button: primary-outline
 
   - title: Add your link
-    url: https://github.com/DefiNavy/contributions/issues
+    url: https://github.com/DefiNavy/website-contributions/issues/new?assignees=dreth&labels=add+link&template=ADD-LINK.yml&title=%5BAdd%5D%3A+%3CProject%2C+project+names+or+%22Multiple+%28if+they%27re+too+many%29%22%3E 
     button: danger-outline
 
   # - title: Contact
