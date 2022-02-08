@@ -4,7 +4,7 @@ tags: [utilities]
 subtitle: Blockchain, DeFi, and crypto development related websites.
 ---
 
-- [Remix IDE](https://remix.ethereum.org/)
-- [Solidity website](https://soliditylang.org/)
-- [Solidity repo on GitHub](https://github.com/ethereum/solidity)
-- [Vyper repo on GitHub](https://github.com/vyperlang/vyper)
+- [Remix IDE](https://remix.ethereum.org/){:target="_blank"}
+- [Solidity website](https://soliditylang.org/){:target="_blank"}
+- [Solidity repo on GitHub](https://github.com/ethereum/solidity){:target="_blank"}
+- [Vyper repo on GitHub](https://github.com/vyperlang/vyper){:target="_blank"}
