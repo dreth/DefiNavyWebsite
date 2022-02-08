@@ -5,8 +5,8 @@ subtitle: Staking protocols create the opportunity to stake native tokens to sec
 ---
 
 - [StakeWise](https://stakewise.io/){:target="_blank"}
+- [Rocket Pool](https://rocketpool.net/){:target="_blank"}
 - [Lido](https://lido.fi/){:target="_blank"}
-- [Tron Staking Governance](http://tronscan.org){:target="_blank"}
 - [Marinade Finance](https://marinade.finance){:target="_blank"}
 - [Ankr](https://www.ankr.com/){:target="_blank"}
 - [Socean](https://www.socean.fi){:target="_blank"}
@@ -19,6 +19,7 @@ subtitle: Staking protocols create the opportunity to stake native tokens to sec
 - [Crystl Finance](https://www.crystl.finance){:target="_blank"}
 - [Crunchy Network](https://crunchy.network){:target="_blank"}
 - [Coffin Finance](https://coffin.finance){:target="_blank"}
+- [Tron Staking Governance](http://tronscan.org){:target="_blank"}
 - [Multi-Chain Miner](https://multichain-miner.net){:target="_blank"}
 - [SteakBank Finance](https://steakbank.finance/){:target="_blank"}
 - [Timewarp](https://timewarp.finance){:target="_blank"}
