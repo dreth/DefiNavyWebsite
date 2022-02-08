@@ -5,10 +5,10 @@ subtitle: A decentralized exchange allows swapping between one asset and another
 ---
 
 - [Uniswap V3](https://app.uniswap.org/#/swap?chain=mainnet){:target="_blank"}
-- [Uniswap V2](https://bafybeifkmlxc7ab42tavxjpdgmte52xt6f5dsazfkn3uxhxhahdzco5nme.ipfs.dweb.link/#/swap?use=v2){:target="_blank"}
-- [Uniswap V1](https://bafybeiehogk3rdmet7pd3ddtmz2pnsrivmdjvlnf5qczujl5plmkouispm.ipfs.dweb.link){:target="_blank"}
 - [Curve](https://curve.fi){:target="_blank"}
 - [Cowswap](https://cowswap.exchange){:target="_blank"}
+- [Uniswap V2](https://bafybeifkmlxc7ab42tavxjpdgmte52xt6f5dsazfkn3uxhxhahdzco5nme.ipfs.dweb.link/#/swap?use=v2){:target="_blank"}
+- [Uniswap V1](https://bafybeiehogk3rdmet7pd3ddtmz2pnsrivmdjvlnf5qczujl5plmkouispm.ipfs.dweb.link){:target="_blank"}
 - [Loopring](https://loopring.org/#/){:target="_blank"}
 - [SushiSwap](https://sushi.com/){:target="_blank"}
 - [Defi Swap](https://crypto.com/defi/swap){:target="_blank"}
