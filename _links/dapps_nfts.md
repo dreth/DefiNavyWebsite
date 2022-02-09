@@ -8,6 +8,7 @@ subtitle: Dapps related to NFTs (non-fungible tokens) are often stores, games or
 - [Opensea](https://Opensea.io){:target="_blank"}
 - [Rarible](https://rarible.com){:target="_blank"}
 - [SuperRare](https://superrare.com/){:target="_blank"}
+- [EthBlockArt](https://ethblock.art/){:target="_blank"}
 - [ArtBlocks](https://www.artblocks.io/){:target="_blank"}
 - [ArtBlocksWiki](https://artblocks.wiki/){:target="_blank"}
 - [Axie Marketplace](https://marketplace.axieinfinity.com/){:target="_blank"}
