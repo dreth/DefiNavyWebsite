@@ -17,3 +17,4 @@ subtitle: Dashboards to see your wallets' assets or perform actions in DeFi Apps
 - [Yield Farming Tools](https://yieldfarmingtools.com/){:target="_blank"}
 - [Farm.army](https://farm.army/){:target="_blank"}
 - [Plasma Finance](https://plasma.finance/){:target="_blank"}
+- [Crypto.com DeFi Dashboard](https://crypto.com/defi/dashboard/gas-fees){:target="_blank"}

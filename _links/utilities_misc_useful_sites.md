@@ -10,6 +10,15 @@ subtitle: Useful miscellaneous DeFi and crypto related websites people and organ
 - [Stereum client diversity watch](https://stereum.net/client-diversity-watch/){:target="_blank"}
 - [Slashed.info, slashing penalties per client](https://www.slashed.info/){:target="_blank"}
 
+### Ethereum gas trackers
+
+- [Etherscan gas tracker](https://etherscan.io/gastracker){:target="_blank"}
+- [Nansen.ai gas tracker dashboard](https://pro.nansen.ai/gas-tracker){:target="_blank"}
+- [ETH Gas Station](https://ethgasstation.info/){:target="_blank"}
+- [Cryptocurrency alerting gas tracker price alert](https://cryptocurrencyalerting.com/eth-gas-tracker.html){:target="_blank"}
+- [Gwei.at](https://www.gwei.at/){:target="_blank"}
+- [ETHGas.watch](https://ethgas.watch/){:target="_blank"}
+
 ### Ethereum node data
 
 - [NodeWatch](https://www.nodewatch.io/){:target="_blank"}
