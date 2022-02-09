@@ -23,7 +23,6 @@ subtitle: A decentralized exchange allows swapping between one asset and another
 - [Orca](https://www.orca.so){:target="_blank"}
 - [DefiChain](https://defichain.com/){:target="_blank"}
 - [Mento](https://mento.finance){:target="_blank"}
-- [Synapse](https://synapseprotocol.com){:target="_blank"}
 - [Quickswap](https://quickswap.exchange/){:target="_blank"}
 - [Ellipsis Finance](https://ellipsis.finance/){:target="_blank"}
 - [Sun Swap](https://sun.io){:target="_blank"}
@@ -53,12 +52,11 @@ subtitle: A decentralized exchange allows swapping between one asset and another
 - [Waves Exchange](https://waves.exchange){:target="_blank"}
 - [DefiBox](https://defibox.io){:target="_blank"}
 - [Dfyn Network](https://www.dfyn.network/){:target="_blank"}
-- [Solarbeam](https://solarbeam.io/exchange/swap){:target="_blank"}
+- [Solarbeam](https://solarbeam.io/){:target="_blank"}
 - [JSwap](https://app.jswap.finance/#/swap){:target="_blank"}
 - [Saddle Finance](https://saddle.finance/){:target="_blank"}
 - [Ref Finance](https://app.ref.finance){:target="_blank"}
 - [SecretSwap](https://www.secretswap.io/){:target="_blank"}
-- [Hop Protocol](https://hop.exchange){:target="_blank"}
 - [ZilSwap](https://zilswap.io/swap){:target="_blank"}
 - [DinoSwap](https://dinoswap.exchange){:target="_blank"}
 - [1inch](https://1inch.exchange/){:target="_blank"}
