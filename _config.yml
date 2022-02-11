@@ -42,7 +42,7 @@ authors:
 # Social icons displayed in footer
 social:
     email:          team@defi.navy
-    website:        https://defi.navy
+    website:
     facebook:       
     flickr:
     dribbble:
@@ -72,7 +72,7 @@ disqus:
     shortname:      # 1234
 
 # Google analytics code, get your code here https://www.google.com/analytics/
-google_analytics:   G-2NHRFL6P86
+# google_analytics:   G-2NHRFL6P86
 
 # Number of posts displayed on blog page
 paginate:           10
