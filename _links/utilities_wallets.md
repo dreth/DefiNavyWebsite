@@ -28,7 +28,6 @@ subtitle: Links to cryptocurrency wallet services, software and hardware wallet 
 - [Loopring wallet](https://loopring.io/){:target="_blank"}
 - [TokenPocket](https://tokenpocket.pro/){:target="_blank"}
 - [ONTO](https://onto.app/){:target="_blank"}
-- [Dharma](https://www.dharma.io/){:target="_blank"}
 
 For WalletConnect, these are their [compatible wallets](https://walletconnect.com/registry/wallets){:target="_blank"}.
 
