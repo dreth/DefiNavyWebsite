@@ -16,3 +16,7 @@
 - title: Add your link
   url: https://github.com/DefiNavy/website-contributions/issues/new?assignees=dreth&labels=add+link&template=ADD-LINK.yml&title=%5BAdd%5D%3A+
   button: danger
+
+- title: Modify a link
+  url: https://github.com/DefiNavy/website-contributions/issues/new?assignees=dreth&labels=modify+or+update+link&template=MODIFY-LINK.yml&title=%5BModify%5D%3A+
+  button: warning-outline
