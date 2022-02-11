@@ -1,8 +1,33 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2022-02-11T23:41:01+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">DeFi⚓Navy</title><subtitle>Links to the world of DeFi and more cool stuff.</subtitle><author><name>DeFi Navy team</name></author><entry><title type="html">Contribution guide</title><link href="http://localhost:4000/contributionguide/" rel="alternate" type="text/html" title="Contribution guide" /><published>2021-10-30T00:00:00+02:00</published><updated>2021-10-30T00:00:00+02:00</updated><id>http://localhost:4000/contributionguide</id><content type="html" xml:base="http://localhost:4000/contributionguide/">&lt;h2 id=&quot;how-do-i-contribute-to-defi-navy&quot;&gt;How do I contribute to DeFi Navy?&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2022-02-11T23:49:06+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">DeFi⚓Navy</title><subtitle>Links to the world of DeFi and more cool stuff.</subtitle><author><name>DeFi Navy team</name></author><entry><title type="html">Contribution guide</title><link href="http://localhost:4000/contributionguide/" rel="alternate" type="text/html" title="Contribution guide" /><published>2021-10-30T00:00:00+02:00</published><updated>2021-10-30T00:00:00+02:00</updated><id>http://localhost:4000/contributionguide</id><content type="html" xml:base="http://localhost:4000/contributionguide/">&lt;h2 id=&quot;how-do-i-contribute-to-definavy&quot;&gt;How do I contribute to DeFi⚓Navy?&lt;/h2&gt;
 
-&lt;p&gt;By adding more links to cool/useful DeFi and crypto-related sites and apps, helping us correct links, or… anything!&lt;/p&gt;
+&lt;p&gt;Note: This is the readme of our &lt;a href=&quot;https://github.com/DefiNavy/website-contributions&quot;&gt;website contributions repo&lt;/a&gt; on GitHub.&lt;/p&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;https://github.com/DefiNavy/website-contributions&quot;&gt;&lt;strong&gt;&lt;em&gt;contribution repo&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; on our Github for more instructions.&lt;/p&gt;</content><author><name>definavy</name></author><summary type="html">How do I contribute to DeFi Navy?</summary></entry><entry><title type="html">Welcome to DeFi Navy</title><link href="http://localhost:4000/welcome/" rel="alternate" type="text/html" title="Welcome to DeFi Navy" /><published>2021-10-30T00:00:00+02:00</published><updated>2021-10-30T00:00:00+02:00</updated><id>http://localhost:4000/welcome</id><content type="html" xml:base="http://localhost:4000/welcome/">&lt;h2 id=&quot;our-experiment&quot;&gt;Our experiment&lt;/h2&gt;
+&lt;p&gt;To help contribute with the website you must create an &lt;a href=&quot;https://github.com/DefiNavy/contributions/issues&quot;&gt;issue&lt;/a&gt; and follow the instructions for whatever is needed in each form.&lt;/p&gt;
+
+&lt;p&gt;Please &lt;strong&gt;read&lt;/strong&gt; carefully the instructions in each issue posting form before submitting an issue.&lt;/p&gt;
+
+&lt;h3 id=&quot;some-quick-links-to-create-specific-issues&quot;&gt;Some quick links to create specific issues&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://github.com/DefiNavy/website-contributions/issues/new?assignees=dreth&amp;amp;labels=add+link&amp;amp;template=ADD-LINK.yml&amp;amp;title=%5BAdd%5D%3A+&quot;&gt;Add a new link&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://github.com/DefiNavy/website-contributions/issues/new?assignees=dreth&amp;amp;labels=modify+or+update+link&amp;amp;template=MODIFY-LINK.yml&amp;amp;title=%5BModify%5D%3A+&quot;&gt;Modify an existing link&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://github.com/DefiNavy/website-contributions/issues/new?assignees=dreth&amp;amp;labels=broken+link&amp;amp;template=BROKEN-LINK.yml&amp;amp;title=%5BBroken%5D%3A+&quot;&gt;Fix a broken link&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://github.com/DefiNavy/website-contributions/issues/new?assignees=dreth&amp;amp;labels=bug&amp;amp;template=bug_report.md&amp;amp;title=%5BBug%5D%3A+&quot;&gt;Submit a bug report&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;financials&quot;&gt;Financials&lt;/h3&gt;
+
+&lt;p&gt;If you want to help us cover running costs, you can send any ERC-20 tokens or ETH to &lt;code class=&quot;highlighter-rouge&quot;&gt;definavy.eth&lt;/code&gt; or the address it points to: &lt;code class=&quot;highlighter-rouge&quot;&gt;0x1Ac6400091c188079C1d216427a182193c20f986&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Or just share the site around, any help is appreciated!&lt;/p&gt;</content><author><name>definavy</name></author><summary type="html">How do I contribute to DeFi⚓Navy?</summary></entry><entry><title type="html">Welcome to DeFi Navy</title><link href="http://localhost:4000/welcome/" rel="alternate" type="text/html" title="Welcome to DeFi Navy" /><published>2021-10-30T00:00:00+02:00</published><updated>2021-10-30T00:00:00+02:00</updated><id>http://localhost:4000/welcome</id><content type="html" xml:base="http://localhost:4000/welcome/">&lt;h2 id=&quot;our-experiment&quot;&gt;Our experiment&lt;/h2&gt;
 
 &lt;p&gt;Hi!, welcome to DeFi Navy. We’re a small team of dudes that want to make the world of DeFi a little easier to explore. &lt;em&gt;Dozens&lt;/em&gt; of people are building super cool sites for many different purposes, exploring blockchain data, dapps, news, media, all sorts of things. These are super hard to track, since they’re shared around in forums and there’s SO many popping up at the same time.&lt;/p&gt;
 
