@@ -8,3 +8,4 @@ subtitle: Links to crypto, blockchain and DeFi-related job sites, both for compa
 - [Cryptocurrency Jobs](https://cryptocurrencyjobs.co/){:target="_blank"}
 - [CryptoJobsList](https://cryptojobslist.com/){:target="_blank"}
 - [PompCryptoJobs](https://pompcryptojobs.com/){:target="_blank"}
+- [Mesh.xyz](https://careers.mesh.xyz/companies){:target="_blank"}
