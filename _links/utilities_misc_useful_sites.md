@@ -9,6 +9,7 @@ subtitle: Useful miscellaneous DeFi and crypto related websites people and organ
 - [ClientDiversity.org](https://clientdiversity.org/){:target="_blank"}
 - [Stereum client diversity watch](https://stereum.net/client-diversity-watch/){:target="_blank"}
 - [Slashed.info, slashing penalties per client](https://www.slashed.info/){:target="_blank"}
+- [Prysm usage for popular staking pools](https://pools.invis.cloud/){:target="_blank"}
 
 ### Ethereum gas trackers
 
