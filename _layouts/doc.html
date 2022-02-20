@@ -44,7 +44,9 @@ layout: default
                                 <div id="linksGenerationArea"></div>
                             </div>
                             {% else %}
-                            <h3>{{ page.section1title }}</h3>
+                                {% if pagepage.section1title %}
+                                    <h3>{{ page.section1title }}</h3>
+                                {% endif %}
                             <div>
                                 <special id="{{ page.category }}"></special>
                                 <div id="chainSelector"></div><br>
