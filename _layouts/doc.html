@@ -35,10 +35,10 @@ layout: default
 
                     <div class="article-content link-primary">
                         {% if page.dapps and page.category %}
+                        <special id="{{ page.category }}"></special>
                             {% if page.reverse %}
                             {{ content }}
                             <div>
-                                <special id="{{ page.category }}"></special>
                                 <div id="chainSelector"></div><br>
                                 <div id="auditSelector"></div><br>
                                 <div id="linksGenerationArea"></div>
@@ -48,8 +48,8 @@ layout: default
                                     <h3>{{ page.section1title }}</h3>
                                 {% endif %}
                             <div>
-                                <special id="{{ page.category }}"></special>
                                 <div id="chainSelector"></div><br>
+                                <div id="auditSelector"></div><br>
                                 <div id="linksGenerationArea"></div>
                             </div>
                             {{ content }}
