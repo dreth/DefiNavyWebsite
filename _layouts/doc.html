@@ -2,6 +2,7 @@
 layout: default
 ---
 
+<link rel="stylesheet" type="text/css" href="/assets/css/small_things.css">
 <div class="uk-section">
     <div class="uk-container">
         <div class="uk-grid-large" data-uk-grid>
@@ -28,13 +29,30 @@ layout: default
                     <h1 class="uk-article-title">{{ page.title | escape }}</h1>
 
                     {% if page.subtitle %}<p class="uk-text-lead uk-text-muted">{{ page.subtitle }}</p>{% endif %}
-
+                    
                     <div class="uk-article-meta uk-margin-top uk-margin-medium-bottom uk-flex uk-flex-middle">
-                        {% include post-meta.html %}
                     </div>
 
                     <div class="article-content link-primary">
-                        {{ content }}
+                        {% if page.dapps and page.category %}
+                            {% if page.reverse %}
+                            {{ content }}
+                            <div>
+                                <special id="{{ page.category }}"></special>
+                                <div id="chainSelector"></div><br>
+                                <div id="linksGenerationArea"></div>
+                            </div>
+                            {% else %}
+                            <div>
+                                <special id="{{ page.category }}"></special>
+                                <div id="chainSelector"></div><br>
+                                <div id="linksGenerationArea"></div>
+                            </div>
+                            {{ content }}
+                            {% endif %}
+                        {% else %}
+                            {{ content }}
+                        {% endif %}
                         {% if site.share.doc %}
                             {% include share.html %}
                         {% endif %}
@@ -60,7 +78,8 @@ layout: default
                         offset: 120
                     });
                 </script>
-
+                <script src="/assets/js/jquery.js"></script>
+                <script src="/assets/js/linksGenerator.js"></script>
             </div>
 
     </div>

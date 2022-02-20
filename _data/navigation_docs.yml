@@ -2,12 +2,13 @@
   links:
   - dapps_dexes
   - dapps_lending
-  - dapps_assets
+  - dapps_stablecoins
   - dapps_indexes
   - dapps_insurance
   - dapps_dashboards
   - dapps_bridges
   - dapps_options
+  - dapps_liquid_staking
   - dapps_staking
   - dapps_yield
   - dapps_domain

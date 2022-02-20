@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "communities",
       "url"      : "/links/communities_other_sites/",
-      "date"     : "2022-02-19 19:40:52 +0100"
+      "date"     : "2022-02-20 02:23:40 +0100"
     } ,
   
     {
@@ -13,23 +13,15 @@
       "category" : "",
       "tags"     : "communities",
       "url"      : "/links/communities_reddit/",
-      "date"     : "2022-02-19 19:40:52 +0100"
-    } ,
-  
-    {
-      "title"    : "Assets",
-      "category" : "",
-      "tags"     : "dapps",
-      "url"      : "/links/dapps_assets/",
-      "date"     : "2022-02-19 19:40:52 +0100"
+      "date"     : "2022-02-20 02:23:40 +0100"
     } ,
   
     {
       "title"    : "Bridges",
-      "category" : "",
+      "category" : "Bridge",
       "tags"     : "dapps",
       "url"      : "/links/dapps_bridges/",
-      "date"     : "2022-02-19 19:40:52 +0100"
+      "date"     : "2022-02-20 02:23:40 +0100"
     } ,
   
     {
@@ -37,15 +29,15 @@
       "category" : "",
       "tags"     : "dapps",
       "url"      : "/links/dapps_dashboards/",
-      "date"     : "2022-02-19 19:40:52 +0100"
+      "date"     : "2022-02-20 02:23:40 +0100"
     } ,
   
     {
       "title"    : "Decentralized Exchanges",
-      "category" : "",
+      "category" : "Dexes",
       "tags"     : "dapps",
       "url"      : "/links/dapps_dexes/",
-      "date"     : "2022-02-19 19:40:52 +0100"
+      "date"     : "2022-02-20 02:23:40 +0100"
     } ,
   
     {
@@ -53,7 +45,7 @@
       "category" : "",
       "tags"     : "dapps",
       "url"      : "/links/dapps_domain/",
-      "date"     : "2022-02-19 19:40:52 +0100"
+      "date"     : "2022-02-20 02:23:40 +0100"
     } ,
   
     {
@@ -61,31 +53,39 @@
       "category" : "",
       "tags"     : "dapps",
       "url"      : "/links/dapps_gambling/",
-      "date"     : "2022-02-19 19:40:52 +0100"
+      "date"     : "2022-02-20 02:23:40 +0100"
     } ,
   
     {
       "title"    : "Indexes",
-      "category" : "",
+      "category" : "Indexes",
       "tags"     : "dapps",
       "url"      : "/links/dapps_indexes/",
-      "date"     : "2022-02-19 19:40:52 +0100"
+      "date"     : "2022-02-20 02:23:40 +0100"
     } ,
   
     {
       "title"    : "Insurance",
-      "category" : "",
+      "category" : "Insurance",
       "tags"     : "dapps",
       "url"      : "/links/dapps_insurance/",
-      "date"     : "2022-02-19 19:40:52 +0100"
+      "date"     : "2022-02-20 02:23:40 +0100"
     } ,
   
     {
       "title"    : "Lending protocols",
-      "category" : "",
+      "category" : "Lending",
       "tags"     : "dapps",
       "url"      : "/links/dapps_lending/",
-      "date"     : "2022-02-19 19:40:52 +0100"
+      "date"     : "2022-02-20 02:23:40 +0100"
+    } ,
+  
+    {
+      "title"    : "Liquid Staking protocols",
+      "category" : "Liquid Staking",
+      "tags"     : "dapps",
+      "url"      : "/links/dapps_liquid_staking/",
+      "date"     : "2022-02-20 02:23:40 +0100"
     } ,
   
     {
@@ -93,15 +93,15 @@
       "category" : "",
       "tags"     : "dapps",
       "url"      : "/links/dapps_nfts/",
-      "date"     : "2022-02-19 19:40:52 +0100"
+      "date"     : "2022-02-20 02:23:40 +0100"
     } ,
   
     {
       "title"    : "Options",
-      "category" : "",
+      "category" : "Options",
       "tags"     : "dapps",
       "url"      : "/links/dapps_options/",
-      "date"     : "2022-02-19 19:40:52 +0100"
+      "date"     : "2022-02-20 02:23:40 +0100"
     } ,
   
     {
@@ -109,23 +109,31 @@
       "category" : "",
       "tags"     : "dapps",
       "url"      : "/links/dapps_others/",
-      "date"     : "2022-02-19 19:40:52 +0100"
+      "date"     : "2022-02-20 02:23:40 +0100"
+    } ,
+  
+    {
+      "title"    : "Stablecoins",
+      "category" : "Algo-Stables",
+      "tags"     : "dapps",
+      "url"      : "/links/dapps_stablecoins/",
+      "date"     : "2022-02-20 02:23:40 +0100"
     } ,
   
     {
       "title"    : "Staking protocols",
-      "category" : "",
+      "category" : "Staking",
       "tags"     : "dapps",
       "url"      : "/links/dapps_staking/",
-      "date"     : "2022-02-19 19:40:52 +0100"
+      "date"     : "2022-02-20 02:23:40 +0100"
     } ,
   
     {
       "title"    : "Yield farming protocols",
-      "category" : "",
+      "category" : "Yield",
       "tags"     : "dapps",
       "url"      : "/links/dapps_yield/",
-      "date"     : "2022-02-19 19:40:52 +0100"
+      "date"     : "2022-02-20 02:23:40 +0100"
     } ,
   
     {
@@ -133,7 +141,7 @@
       "category" : "",
       "tags"     : "utilities",
       "url"      : "/links/utilities_airdrops/",
-      "date"     : "2022-02-19 19:40:52 +0100"
+      "date"     : "2022-02-20 02:23:40 +0100"
     } ,
   
     {
@@ -141,7 +149,7 @@
       "category" : "",
       "tags"     : "utilities",
       "url"      : "/links/utilities_block_explorers/",
-      "date"     : "2022-02-19 19:40:52 +0100"
+      "date"     : "2022-02-20 02:23:40 +0100"
     } ,
   
     {
@@ -149,7 +157,7 @@
       "category" : "",
       "tags"     : "utilities",
       "url"      : "/links/utilities_development/",
-      "date"     : "2022-02-19 19:40:52 +0100"
+      "date"     : "2022-02-20 02:23:40 +0100"
     } ,
   
     {
@@ -157,7 +165,7 @@
       "category" : "",
       "tags"     : "utilities",
       "url"      : "/links/utilities_ethereum_metrics/",
-      "date"     : "2022-02-19 19:40:52 +0100"
+      "date"     : "2022-02-20 02:23:40 +0100"
     } ,
   
     {
@@ -165,7 +173,7 @@
       "category" : "",
       "tags"     : "utilities",
       "url"      : "/links/utilities_jobs/",
-      "date"     : "2022-02-19 19:40:52 +0100"
+      "date"     : "2022-02-20 02:23:40 +0100"
     } ,
   
     {
@@ -173,7 +181,7 @@
       "category" : "",
       "tags"     : "utilities",
       "url"      : "/links/utilities_misc_useful_sites/",
-      "date"     : "2022-02-19 19:40:52 +0100"
+      "date"     : "2022-02-20 02:23:40 +0100"
     } ,
   
     {
@@ -181,7 +189,7 @@
       "category" : "",
       "tags"     : "utilities",
       "url"      : "/links/utilities_price_tracking/",
-      "date"     : "2022-02-19 19:40:52 +0100"
+      "date"     : "2022-02-20 02:23:40 +0100"
     } ,
   
     {
@@ -189,7 +197,7 @@
       "category" : "",
       "tags"     : "utilities",
       "url"      : "/links/utilities_wallets/",
-      "date"     : "2022-02-19 19:40:52 +0100"
+      "date"     : "2022-02-20 02:23:40 +0100"
     } ,
   
     {
@@ -197,7 +205,7 @@
       "category" : "",
       "tags"     : "features",
       "url"      : "/links/welcome/",
-      "date"     : "2022-02-19 19:40:52 +0100"
+      "date"     : "2022-02-20 02:23:40 +0100"
     } 
   
 ]

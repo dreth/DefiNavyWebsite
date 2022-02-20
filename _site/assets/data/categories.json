@@ -1,0 +1,491 @@
+{
+    "Dexes": {
+        "chains": [
+            "Ethereum",
+            "Avalanche",
+            "Fantom",
+            "Polygon",
+            "Arbitrum",
+            "Gnosis",
+            "Harmony",
+            "Optimism",
+            "Terra",
+            "Solana",
+            "BSC",
+            "Moonriver",
+            "OKExChain",
+            "Telos",
+            "Heco",
+            "KCC",
+            "Syscoin",
+            "Celo",
+            "Fuse",
+            "Palm",
+            "Tron",
+            "Osmosis",
+            "Cronos",
+            "Metis",
+            "Aurora",
+            "Moonbeam",
+            "Boba",
+            "Klaytn",
+            "Elrond",
+            "DefiChain",
+            "Ronin",
+            "Astar",
+            "Waves",
+            "Kava",
+            "Mixin",
+            "Oasis",
+            "Shiden",
+            "Velas",
+            "Thorchain",
+            "Fusion",
+            "EOS",
+            "Theta",
+            "Cardano",
+            "Stacks",
+            "NEO",
+            "Godwoken",
+            "Near",
+            "RSK",
+            "Ontology",
+            "IoTeX",
+            "Icon",
+            "Secret",
+            "Sifchain",
+            "Tezos",
+            "Songbird",
+            "Algorand",
+            "Everscale",
+            "Stellar",
+            "Wanchain",
+            "Sora",
+            "VeChain",
+            "Zilliqa",
+            "Kardia",
+            "Elastos",
+            "Hoo",
+            "Karura",
+            "smartBCH",
+            "Energi",
+            "Nuls",
+            "Meter",
+            "CSC",
+            "Callisto",
+            "TomoChain",
+            "Nahmii",
+            "ThunderCore",
+            "EnergyWeb",
+            "Ergo",
+            "Lamden",
+            "Bittorrent",
+            "XDC",
+            "Ubiq",
+            "Curio",
+            "Polis",
+            "ZYX",
+            "HPB",
+            "GoChain",
+            "Liquidchain",
+            "EthereumClassic",
+            "zkSync"
+        ]
+    },
+    "CDP": {
+        "chains": [
+            "Ethereum",
+            "Avalanche",
+            "Fantom",
+            "Polygon",
+            "Arbitrum",
+            "Gnosis",
+            "Harmony",
+            "Solana",
+            "BSC",
+            "Moonriver",
+            "IoTeX",
+            "Tezos",
+            "Songbird",
+            "TomoChain"
+        ]
+    },
+    "Yield": {
+        "chains": [
+            "Ethereum",
+            "Avalanche",
+            "Fantom",
+            "Polygon",
+            "Arbitrum",
+            "Gnosis",
+            "Harmony",
+            "Optimism",
+            "Terra",
+            "Solana",
+            "BSC",
+            "Moonriver",
+            "OKExChain",
+            "Heco",
+            "Celo",
+            "Cronos",
+            "Aurora",
+            "Moonbeam",
+            "Boba",
+            "EOS",
+            "RSK",
+            "IoTeX",
+            "Tezos",
+            "Algorand",
+            "Wanchain",
+            "Kardia",
+            "Binance"
+        ]
+    },
+    "Lending": {
+        "chains": [
+            "Ethereum",
+            "Avalanche",
+            "Fantom",
+            "Polygon",
+            "Arbitrum",
+            "Gnosis",
+            "Harmony",
+            "Optimism",
+            "Terra",
+            "Solana",
+            "BSC",
+            "Moonriver",
+            "OKExChain",
+            "Telos",
+            "Heco",
+            "Celo",
+            "Tron",
+            "Cronos",
+            "Metis",
+            "Boba",
+            "Klaytn",
+            "DefiChain",
+            "Parallel",
+            "Waves",
+            "Kava",
+            "Oasis",
+            "EOS",
+            "Bitcoin",
+            "Cardano",
+            "Ontology",
+            "IoTeX",
+            "Icon",
+            "Algorand",
+            "Karura",
+            "Conflux",
+            "CSC",
+            "ThunderCore",
+            "Genshiro"
+        ]
+    },
+    "Bridge": {
+        "chains": [
+            "Ethereum",
+            "Avalanche",
+            "Fantom",
+            "Polygon",
+            "Arbitrum",
+            "Gnosis",
+            "Harmony",
+            "Terra",
+            "Solana",
+            "BSC",
+            "Moonriver",
+            "OKExChain",
+            "Telos",
+            "Heco",
+            "KCC",
+            "Syscoin",
+            "Celo",
+            "Tron",
+            "Aurora",
+            "Kava",
+            "IoTeX",
+            "Secret"
+        ]
+    },
+    "Liquid Staking": {
+        "chains": [
+            "Ethereum",
+            "Avalanche",
+            "Terra",
+            "Solana",
+            "NEO",
+            "Near",
+            "Karura",
+            "CSC"
+        ]
+    },
+    "Services": {
+        "chains": [
+            "Ethereum",
+            "Avalanche",
+            "Fantom",
+            "Polygon",
+            "Gnosis",
+            "BSC",
+            "Moonriver",
+            "Heco",
+            "Celo",
+            "Tezos"
+        ]
+    },
+    "Yield Aggregator": {
+        "chains": [
+            "Ethereum",
+            "Avalanche",
+            "Fantom",
+            "Polygon",
+            "Arbitrum",
+            "Gnosis",
+            "Harmony",
+            "Optimism",
+            "BSC",
+            "Moonriver",
+            "OKExChain",
+            "Heco",
+            "KCC",
+            "Celo",
+            "Fuse",
+            "Cronos",
+            "Metis",
+            "Aurora",
+            "Moonbeam",
+            "Boba",
+            "Velas"
+        ]
+    },
+    "Algo-Stables": {
+        "chains": [
+            "Ethereum",
+            "Avalanche",
+            "Fantom",
+            "Polygon",
+            "Arbitrum",
+            "Harmony",
+            "Solana",
+            "BSC",
+            "Moonriver",
+            "OKExChain",
+            "KCC",
+            "Tron",
+            "Cronos",
+            "Metis",
+            "Aurora",
+            "Waves",
+            "Oasis",
+            "Stacks",
+            "Near",
+            "Zilliqa"
+        ]
+    },
+    "Derivatives": {
+        "chains": [
+            "Ethereum",
+            "Avalanche",
+            "Polygon",
+            "Arbitrum",
+            "Gnosis",
+            "Optimism",
+            "Terra",
+            "BSC"
+        ]
+    },
+    "Synthetics": {
+        "chains": [
+            "Ethereum",
+            "Polygon",
+            "Arbitrum",
+            "BSC",
+            "Aurora",
+            "Velas",
+            "Tezos"
+        ]
+    },
+    "Payments": {
+        "chains": [
+            "Ethereum",
+            "Fantom",
+            "Polygon",
+            "Gnosis",
+            "Solana",
+            "Bitcoin"
+        ]
+    },
+    "Staking": {
+        "chains": [
+            "Ethereum",
+            "Fantom",
+            "Polygon",
+            "Gnosis",
+            "Solana",
+            "BSC",
+            "Telos",
+            "Fuse",
+            "Cronos",
+            "Astar",
+            "Shiden",
+            "Ultra",
+            "EOS",
+            "Theta",
+            "Cardano",
+            "RSK",
+            "CosmosHub",
+            "Polkadot",
+            "Kusama"
+        ]
+    },
+    "Privacy": {
+        "chains": [
+            "Ethereum",
+            "Fantom",
+            "Polygon",
+            "BSC"
+        ]
+    },
+    "Insurance": {
+        "chains": [
+            "Ethereum",
+            "Avalanche",
+            "Polygon",
+            "BSC"
+        ]
+    },
+    "Reserve Currency": {
+        "chains": [
+            "Ethereum",
+            "Avalanche",
+            "Fantom",
+            "Polygon",
+            "Arbitrum",
+            "Harmony",
+            "Solana",
+            "BSC",
+            "Moonriver",
+            "Celo",
+            "Cronos",
+            "Metis",
+            "Aurora",
+            "Boba",
+            "Klaytn"
+        ]
+    },
+    "Cross Chain": {
+        "chains": [
+            "Ethereum",
+            "Avalanche",
+            "Fantom",
+            "Polygon",
+            "Arbitrum",
+            "Gnosis",
+            "Harmony",
+            "Optimism",
+            "Solana",
+            "BSC",
+            "Moonriver",
+            "OKExChain",
+            "Heco",
+            "Syscoin",
+            "Celo",
+            "Fuse",
+            "Metis",
+            "Aurora",
+            "Moonbeam",
+            "Boba",
+            "Astar",
+            "Oasis",
+            "Shiden"
+        ]
+    },
+    "Indexes": {
+        "chains": [
+            "Ethereum",
+            "Avalanche",
+            "Fantom",
+            "Polygon",
+            "Gnosis",
+            "Optimism",
+            "BSC",
+            "Heco"
+        ]
+    },
+    "Options": {
+        "chains": [
+            "Ethereum",
+            "Avalanche",
+            "Fantom",
+            "Polygon",
+            "Arbitrum",
+            "Optimism",
+            "Solana",
+            "BSC",
+            "Moonriver",
+            "Aurora",
+            "Moonbeam",
+            "Boba",
+            "Wanchain"
+        ]
+    },
+    "Launchpad": {
+        "chains": [
+            "Ethereum",
+            "Polygon",
+            "Harmony",
+            "Terra",
+            "BSC",
+            "Heco",
+            "Aurora",
+            "Songbird"
+        ]
+    },
+    "Minting": {
+        "chains": [
+            "Ethereum",
+            "Avalanche",
+            "Fantom",
+            "Polygon",
+            "Arbitrum",
+            "Solana",
+            "BSC",
+            "Heco"
+        ]
+    },
+    "Gaming": {
+        "chains": [
+            "Ethereum",
+            "Avalanche",
+            "Fantom",
+            "Polygon",
+            "BSC",
+            "OKExChain",
+            "Heco",
+            "Velas",
+            "IoTeX"
+        ]
+    },
+    "Prediction Market": {
+        "chains": [
+            "Ethereum",
+            "Polygon",
+            "Terra",
+            "BSC",
+            "KCC"
+        ]
+    },
+    "Farm": {
+        "chains": [
+            "Fantom"
+        ]
+    },
+    "Oracle": {
+        "chains": [
+            "Ethereum",
+            "BSC"
+        ]
+    }
+}

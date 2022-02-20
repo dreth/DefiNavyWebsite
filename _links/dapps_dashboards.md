@@ -1,6 +1,7 @@
 ---
 title: "Dashboards"
 tags: [dapps]
+dapps: true
 subtitle: Dashboards to see your wallets' assets or perform actions in DeFi Apps.
 ---
 

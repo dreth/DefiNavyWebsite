@@ -1,6 +1,8 @@
 ---
 title: "Bridges"
 tags: [dapps]
+dapps: true
+category: Bridge
 subtitle: dApps to bridge assets between different rollups and Ethereum, or between different layer 1 chains.
 ---
 

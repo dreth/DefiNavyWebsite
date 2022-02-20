@@ -1,6 +1,7 @@
 ---
 title: "NFTs"
 tags: [dapps]
+dapps: true
 subtitle: Dapps related to NFTs (non-fungible tokens) are often stores, games or other types of apps that leverage the power of non-fungible tokens to represent art, collectibles or other unique digital goods.
 ---
 
@@ -10,6 +11,7 @@ subtitle: Dapps related to NFTs (non-fungible tokens) are often stores, games or
 - [SuperRare](https://superrare.com/){:target="_blank"}
 - [EthBlockArt](https://ethblock.art/){:target="_blank"}
 - [ArtBlocks](https://www.artblocks.io/){:target="_blank"}
+- [X2Y2](https://x2y2.io/){:target="_blank"}
 - [ArtBlocksWiki](https://artblocks.wiki/){:target="_blank"}
 - [Axie Marketplace](https://marketplace.axieinfinity.com/){:target="_blank"}
 - [Larva Labs](https://www.larvalabs.com/){:target="_blank"}
