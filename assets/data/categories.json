@@ -1,4 +1,16 @@
 {
+    "Liquid Staking": {
+        "chains": [
+            "Ethereum",
+            "Avalanche",
+            "Terra",
+            "Solana",
+            "Near",
+            "NEO",
+            "Karura",
+            "CSC"
+        ]
+    },
     "Dexes": {
         "chains": [
             "Ethereum",
@@ -30,8 +42,8 @@
             "Boba",
             "Klaytn",
             "Elrond",
-            "DefiChain",
             "Ronin",
+            "DefiChain",
             "Astar",
             "Waves",
             "Kava",
@@ -45,27 +57,27 @@
             "Theta",
             "Cardano",
             "Stacks",
+            "Near",
             "NEO",
             "Godwoken",
-            "Near",
             "RSK",
-            "Ontology",
             "IoTeX",
+            "Ontology",
             "Icon",
             "Secret",
             "Sifchain",
-            "Tezos",
             "Songbird",
-            "Algorand",
+            "Tezos",
             "Everscale",
             "Stellar",
+            "Algorand",
             "Wanchain",
             "Sora",
             "VeChain",
             "Zilliqa",
-            "Kardia",
             "Elastos",
             "Hoo",
+            "Kardia",
             "Karura",
             "smartBCH",
             "Energi",
@@ -76,13 +88,13 @@
             "TomoChain",
             "Nahmii",
             "ThunderCore",
-            "EnergyWeb",
             "Ergo",
+            "EnergyWeb",
             "Lamden",
             "Bittorrent",
             "XDC",
-            "Ubiq",
             "Curio",
+            "Ubiq",
             "Polis",
             "ZYX",
             "HPB",
@@ -105,8 +117,8 @@
             "BSC",
             "Moonriver",
             "IoTeX",
-            "Tezos",
             "Songbird",
+            "Tezos",
             "TomoChain"
         ]
     },
@@ -172,8 +184,8 @@
             "EOS",
             "Bitcoin",
             "Cardano",
-            "Ontology",
             "IoTeX",
+            "Ontology",
             "Icon",
             "Algorand",
             "Karura",
@@ -207,18 +219,6 @@
             "Kava",
             "IoTeX",
             "Secret"
-        ]
-    },
-    "Liquid Staking": {
-        "chains": [
-            "Ethereum",
-            "Avalanche",
-            "Terra",
-            "Solana",
-            "NEO",
-            "Near",
-            "Karura",
-            "CSC"
         ]
     },
     "Services": {
@@ -348,14 +348,6 @@
             "BSC"
         ]
     },
-    "Insurance": {
-        "chains": [
-            "Ethereum",
-            "Avalanche",
-            "Polygon",
-            "BSC"
-        ]
-    },
     "Reserve Currency": {
         "chains": [
             "Ethereum",
@@ -373,6 +365,14 @@
             "Aurora",
             "Boba",
             "Klaytn"
+        ]
+    },
+    "Insurance": {
+        "chains": [
+            "Ethereum",
+            "Avalanche",
+            "Polygon",
+            "BSC"
         ]
     },
     "Cross Chain": {

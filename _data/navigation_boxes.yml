@@ -15,6 +15,11 @@
   icon: bolt
   doc: dapps_yield
 
+- title: Bridges
+  desc: Cross-rollup and cross-chain bridges
+  icon: social
+  doc: dapps_bridges
+
 - title: Insurance protocols
   desc: Protect your investment
   icon: lock
@@ -25,19 +30,19 @@
   icon: image
   doc: dapps_nfts
 
-- title: Staking protocols
+- title: Liquid staking protocols
   desc: Gain interest securing blockchains
   icon: server
-  doc: dapps_staking
+  doc: dapps_liquid_staking
 
-- title: Assets
-  desc: Cross-chain assets
-  icon: social
-  doc: dapps_assets
+- title: Stablecoins
+  desc: Fiat-pegged cryptocurrencies
+  icon: print
+  doc: dapps_stablecoins
 
 - title: Reddit communities
   desc: DeFi and crypto-related subreddits
-  icon: users
+  icon: reddit
   doc: communities_reddit
 
 - title: Options

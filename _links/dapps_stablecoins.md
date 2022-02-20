@@ -3,7 +3,8 @@ title: "Stablecoins"
 tags: [dapps]
 dapps: true
 category: Algo-Stables
-reverse: true
+reverse: false
+section1title: Algo-Stablecoins and chain-specific stablecoin projects
 subtitle: Cryptocurrencies pegged to a fiat currency, either algorithmically or through proven reserves.
 ---
 
@@ -20,6 +21,4 @@ subtitle: Cryptocurrencies pegged to a fiat currency, either algorithmically or 
 #### EUR-pegged
 
 - [EURS](https://eurs.stasis.net/){:target="_blank"}
-
-### Algo-Stablecoins
 

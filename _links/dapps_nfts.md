@@ -24,6 +24,3 @@ subtitle: Dapps related to NFTs (non-fungible tokens) are often stores, games or
 - [BakerySwap](https://www.bakeryswap.org/){:target="_blank"}
 - [Solanart](https://solanart.io/){:target="_blank"}
 - [Binance NFT Marketplace](https://www.binance.com/en/nft/home){:target="_blank"}
-
-
-
