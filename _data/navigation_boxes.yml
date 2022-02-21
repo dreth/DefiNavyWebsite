@@ -10,6 +10,11 @@
   icon: credit-card
   doc: dapps_lending
 
+- title: Ethereum metrics
+  desc: Sites that track Ethereum data
+  icon: info
+  doc: utilities_ethereum_metrics
+
 - title: Yield protocols
   desc: Gain yield on your liquidity
   icon: bolt
@@ -19,6 +24,11 @@
   desc: Cross-rollup and cross-chain bridges
   icon: social
   doc: dapps_bridges
+
+- title: CDP
+  desc: Collateralized Debt Positions
+  icon: move
+  doc: dapps_cdp
 
 - title: Insurance protocols
   desc: Protect your investment

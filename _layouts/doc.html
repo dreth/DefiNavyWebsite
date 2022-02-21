@@ -29,7 +29,7 @@ layout: default
                     <h1 class="uk-article-title">{{ page.title | escape }}</h1>
 
                     {% if page.subtitle %}<p class="uk-text-lead uk-text-muted">{{ page.subtitle }}</p>{% endif %}
-                    
+
                     <div class="uk-article-meta uk-margin-top uk-margin-medium-bottom uk-flex uk-flex-middle">
                     </div>
 
@@ -66,6 +66,8 @@ layout: default
 
                     <hr class="uk-margin-medium">
 
+                    {% include post-meta.html %}
+                    
                     {% include paginate-doc.html %}
 
                     {% include related-docs.html %}

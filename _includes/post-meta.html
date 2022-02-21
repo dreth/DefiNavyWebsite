@@ -1,4 +1,13 @@
-<!-- {% if page.author %}
+
+  <span>Data last updated: <b id="lastUpdatedLinks"></b></span>
+  <script>
+    fetch('/assets/data/last_data_update.json').then(response => {
+      return response.json();
+    }).then(lastDataUpdate => {
+        document.getElementById('lastUpdatedLinks').innerHTML = `<span>${lastDataUpdate['data_last_updated']}</span>`;
+    })
+  </script>
+  <!-- {% if page.author %}
   {% assign author = site.authors[page.author] %}
 {% else %}
   {% assign author = site.author %}

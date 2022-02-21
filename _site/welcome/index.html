@@ -243,7 +243,16 @@ function searchResults(form) {
             <h1 class="uk-article-title">Welcome to DeFi Navy</h1>
 
             <div class="uk-article-meta uk-margin-top uk-margin-medium-bottom uk-flex uk-flex-middle">
-                <!--  -->
+                
+  <span>Data last updated: <b id="lastUpdatedLinks"></b></span>
+  <script>
+    fetch('/assets/data/last_data_update.json').then(response => {
+      return response.json();
+    }).then(lastDataUpdate => {
+        document.getElementById('lastUpdatedLinks').innerHTML = `<span>${lastDataUpdate['data_last_updated']}</span>`;
+    })
+  </script>
+  <!--  -->
 
 <!-- 
   
@@ -376,11 +385,19 @@ function searchResults(form) {
         
           
           
-          <li class=""><a href="/links/dapps_stablecoins/">Stablecoins</a></li>
+          <li class=""><a href="/links/dapps_cdp/">CDP</a></li>
+        
+          
+          
+          <li class=""><a href="/links/dapps_yield/">Yield farming protocols</a></li>
         
           
           
           <li class=""><a href="/links/dapps_indexes/">Indexes</a></li>
+        
+          
+          
+          <li class=""><a href="/links/dapps_liquid_staking/">Liquid Staking protocols</a></li>
         
           
           
@@ -400,7 +417,7 @@ function searchResults(form) {
         
           
           
-          <li class=""><a href="/links/dapps_liquid_staking/">Liquid Staking protocols</a></li>
+          <li class=""><a href="/links/dapps_derivatives/">Derivatives trading</a></li>
         
           
           
@@ -408,7 +425,7 @@ function searchResults(form) {
         
           
           
-          <li class=""><a href="/links/dapps_yield/">Yield farming protocols</a></li>
+          <li class=""><a href="/links/dapps_stablecoins/">Stablecoins</a></li>
         
           
           
@@ -417,6 +434,10 @@ function searchResults(form) {
           
           
           <li class=""><a href="/links/dapps_nfts/">NFTs</a></li>
+        
+          
+          
+          <li class=""><a href="/links/dapps_services/">Services</a></li>
         
         </ul>
         

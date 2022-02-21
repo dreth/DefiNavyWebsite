@@ -451,17 +451,17 @@
             "has_no_token": true
         },
         {
-            "chain": "Stellar",
-            "has_audited": false,
-            "has_unaudited": true,
-            "has_token": true,
-            "has_no_token": true
-        },
-        {
             "chain": "Algorand",
             "has_audited": true,
             "has_unaudited": false,
             "has_token": false,
+            "has_no_token": true
+        },
+        {
+            "chain": "Stellar",
+            "has_audited": false,
+            "has_unaudited": true,
+            "has_token": true,
             "has_no_token": true
         },
         {
@@ -493,6 +493,13 @@
             "has_no_token": true
         },
         {
+            "chain": "Kardia",
+            "has_audited": true,
+            "has_unaudited": true,
+            "has_token": true,
+            "has_no_token": true
+        },
+        {
             "chain": "Elastos",
             "has_audited": true,
             "has_unaudited": false,
@@ -505,13 +512,6 @@
             "has_unaudited": false,
             "has_token": true,
             "has_no_token": false
-        },
-        {
-            "chain": "Kardia",
-            "has_audited": true,
-            "has_unaudited": true,
-            "has_token": true,
-            "has_no_token": true
         },
         {
             "chain": "Karura",
@@ -584,18 +584,18 @@
             "has_no_token": true
         },
         {
-            "chain": "Ergo",
-            "has_audited": false,
-            "has_unaudited": true,
-            "has_token": true,
-            "has_no_token": false
-        },
-        {
             "chain": "EnergyWeb",
             "has_audited": false,
             "has_unaudited": true,
             "has_token": true,
             "has_no_token": true
+        },
+        {
+            "chain": "Ergo",
+            "has_audited": false,
+            "has_unaudited": true,
+            "has_token": true,
+            "has_no_token": false
         },
         {
             "chain": "Lamden",

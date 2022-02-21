@@ -2,17 +2,20 @@
   links:
   - dapps_dexes
   - dapps_lending
-  - dapps_stablecoins
+  - dapps_cdp
+  - dapps_yield
   - dapps_indexes
+  - dapps_liquid_staking
   - dapps_insurance
   - dapps_dashboards
   - dapps_bridges
   - dapps_options
-  - dapps_liquid_staking
+  - dapps_derivatives
   - dapps_staking
-  - dapps_yield
+  - dapps_stablecoins
   - dapps_domain
   - dapps_nfts
+  - dapps_services
 
 - title: Communities
   links:
