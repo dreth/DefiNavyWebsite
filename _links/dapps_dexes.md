@@ -6,6 +6,8 @@ category: Dexes
 subtitle: A decentralized exchange allows swapping between one asset and another in a pinch and without any registration, only connect your wallet and swap.
 ---
 
+***
+
 ### Older Uniswap versions
 
 To use older Uniswap versions you must use an old frontend version. They're available on the IPFS, as usually uploaded in the [Uniswap interface repo releases.](https://github.com/Uniswap/interface/releases)

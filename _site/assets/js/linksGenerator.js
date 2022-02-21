@@ -108,10 +108,9 @@ $.getJSON('/assets/data/categories.json', function(categories_chains) {
                 } else {
                     linksGenerated += `<li><a href="${data[i]['url']}" target="_blank">${data[i]['name']}</a></li>`
                 }
-                
-
             }
             linksGenerated += '</ul>'
+            
 
             // append links to div
             document.getElementById('linksGenerationArea').innerHTML = linksGenerated;

@@ -6,6 +6,8 @@ category: Bridge
 subtitle: dApps to bridge assets between different rollups and Ethereum, or between different layer 1 chains.
 ---
 
+***
+
 ### Ethereum <--> Rollups/Sidechains
 
 - [Optimism gateway](https://gateway.optimism.io/){:target="_blank"}

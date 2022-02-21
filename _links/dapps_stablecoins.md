@@ -8,6 +8,8 @@ section1title: Algo-Stablecoins and chain-specific stablecoin projects
 subtitle: Cryptocurrencies pegged to a fiat currency, either algorithmically or through proven reserves.
 ---
 
+***
+
 ### Reserve-based Stablecoins
 
 #### USD-pegged
