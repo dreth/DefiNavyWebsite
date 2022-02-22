@@ -3,6 +3,6 @@ title: "Staking protocols"
 tags: [dapps]
 dapps: true
 category: Staking
-subtitle: Staking protocols create the opportunity to stake native tokens to secure blockchains that use a PoS consensus mechanism (and variants).
+subtitle: dApps that allow you to stake assets to earn yield on them.
 ---
 
