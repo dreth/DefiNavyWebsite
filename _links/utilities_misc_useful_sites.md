@@ -9,6 +9,10 @@ subtitle: Useful miscellaneous DeFi and crypto related websites people and organ
 - [Etherscan token approval tool](etherscan.io/tokenapprovalchecker){:target="_blank"}
 - [Revoke.cash](https://revoke.cash/){:target="_blank"}
 
+### Insightful and interesting blogs
+
+- [TokenomicsExplained](https://tokenomicsexplained.com/){:target="_blank"}, u/LogrisTheBard's excellent blog analyzing several defi protocols' tokenomics
+
 ### Interesting general metrics
 
 - [CryptoFees.info, how much are users paying to use blockchains/apps](https://cryptofees.info/){:target="_blank"}

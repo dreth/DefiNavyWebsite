@@ -51,7 +51,6 @@ $.getJSON('/assets/data/categories.json', function(categories_chains) {
                 } else if (auditOptions[i] == 'Unaudited') {
                     auditSelector += `<option value="0">${auditOptions[i]}</option>`
                 }
-                
             }
             auditSelector += '</select>'
 

@@ -65,7 +65,7 @@ share:
 
 # Default footer image settings
 footer:
-    copyright:      Made by the <a href="https://defi.navy/">Defi⚓Navy</a> team with love.
+    copyright:      Made by the <a href="https://defi.navy/">Defi⚓Navy</a> team with love.<br>Donations to <a href="https://etherscan.io/address/definavy.eth">definavy.eth</a> or its equivalent <a href="https://etherscan.io/address/0x1Ac6400091c188079C1d216427a182193c20f986">address</a>.
 
 # Disqus comments shortname, requires Disqus account https://disqus.com/
 disqus:
