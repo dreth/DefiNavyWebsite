@@ -262,6 +262,13 @@
             "has_no_token": false
         },
         {
+            "chain": "DefiChain",
+            "has_audited": true,
+            "has_unaudited": false,
+            "has_token": true,
+            "has_no_token": false
+        },
+        {
             "chain": "Ronin",
             "has_audited": false,
             "has_unaudited": true,
@@ -269,9 +276,9 @@
             "has_no_token": true
         },
         {
-            "chain": "DefiChain",
+            "chain": "Waves",
             "has_audited": true,
-            "has_unaudited": false,
+            "has_unaudited": true,
             "has_token": true,
             "has_no_token": false
         },
@@ -283,7 +290,14 @@
             "has_no_token": true
         },
         {
-            "chain": "Waves",
+            "chain": "Oasis",
+            "has_audited": true,
+            "has_unaudited": true,
+            "has_token": true,
+            "has_no_token": true
+        },
+        {
+            "chain": "Shiden",
             "has_audited": true,
             "has_unaudited": true,
             "has_token": true,
@@ -302,20 +316,6 @@
             "has_unaudited": true,
             "has_token": false,
             "has_no_token": true
-        },
-        {
-            "chain": "Oasis",
-            "has_audited": true,
-            "has_unaudited": true,
-            "has_token": true,
-            "has_no_token": true
-        },
-        {
-            "chain": "Shiden",
-            "has_audited": true,
-            "has_unaudited": true,
-            "has_token": true,
-            "has_no_token": false
         },
         {
             "chain": "Velas",
@@ -339,15 +339,15 @@
             "has_no_token": false
         },
         {
-            "chain": "EOS",
-            "has_audited": true,
-            "has_unaudited": true,
-            "has_token": true,
-            "has_no_token": false
-        },
-        {
             "chain": "Theta",
             "has_audited": false,
+            "has_unaudited": true,
+            "has_token": true,
+            "has_no_token": true
+        },
+        {
+            "chain": "EOS",
+            "has_audited": true,
             "has_unaudited": true,
             "has_token": true,
             "has_no_token": true
@@ -374,10 +374,24 @@
             "has_no_token": false
         },
         {
+            "chain": "IoTeX",
+            "has_audited": true,
+            "has_unaudited": true,
+            "has_token": true,
+            "has_no_token": true
+        },
+        {
             "chain": "NEO",
             "has_audited": true,
             "has_unaudited": false,
             "has_token": false,
+            "has_no_token": true
+        },
+        {
+            "chain": "RSK",
+            "has_audited": true,
+            "has_unaudited": true,
+            "has_token": true,
             "has_no_token": true
         },
         {
@@ -388,25 +402,32 @@
             "has_no_token": false
         },
         {
-            "chain": "RSK",
-            "has_audited": true,
-            "has_unaudited": true,
-            "has_token": true,
-            "has_no_token": true
-        },
-        {
-            "chain": "IoTeX",
-            "has_audited": true,
-            "has_unaudited": true,
-            "has_token": true,
-            "has_no_token": true
-        },
-        {
             "chain": "Ontology",
             "has_audited": true,
             "has_unaudited": false,
             "has_token": true,
             "has_no_token": false
+        },
+        {
+            "chain": "Sifchain",
+            "has_audited": true,
+            "has_unaudited": false,
+            "has_token": true,
+            "has_no_token": false
+        },
+        {
+            "chain": "Wax",
+            "has_audited": true,
+            "has_unaudited": true,
+            "has_token": true,
+            "has_no_token": true
+        },
+        {
+            "chain": "Songbird",
+            "has_audited": false,
+            "has_unaudited": true,
+            "has_token": true,
+            "has_no_token": true
         },
         {
             "chain": "Icon",
@@ -423,17 +444,10 @@
             "has_no_token": false
         },
         {
-            "chain": "Sifchain",
+            "chain": "Algorand",
             "has_audited": true,
-            "has_unaudited": false,
-            "has_token": true,
-            "has_no_token": false
-        },
-        {
-            "chain": "Songbird",
-            "has_audited": false,
             "has_unaudited": true,
-            "has_token": true,
+            "has_token": false,
             "has_no_token": true
         },
         {
@@ -451,24 +465,10 @@
             "has_no_token": true
         },
         {
-            "chain": "Algorand",
-            "has_audited": true,
-            "has_unaudited": false,
-            "has_token": false,
-            "has_no_token": true
-        },
-        {
             "chain": "Stellar",
             "has_audited": false,
             "has_unaudited": true,
             "has_token": true,
-            "has_no_token": true
-        },
-        {
-            "chain": "Sora",
-            "has_audited": false,
-            "has_unaudited": true,
-            "has_token": false,
             "has_no_token": true
         },
         {
@@ -477,6 +477,13 @@
             "has_unaudited": false,
             "has_token": true,
             "has_no_token": false
+        },
+        {
+            "chain": "Sora",
+            "has_audited": false,
+            "has_unaudited": true,
+            "has_token": false,
+            "has_no_token": true
         },
         {
             "chain": "VeChain",
@@ -490,13 +497,6 @@
             "has_audited": false,
             "has_unaudited": true,
             "has_token": false,
-            "has_no_token": true
-        },
-        {
-            "chain": "Kardia",
-            "has_audited": true,
-            "has_unaudited": true,
-            "has_token": true,
             "has_no_token": true
         },
         {
@@ -514,11 +514,11 @@
             "has_no_token": false
         },
         {
-            "chain": "Karura",
-            "has_audited": false,
+            "chain": "Kardia",
+            "has_audited": true,
             "has_unaudited": true,
             "has_token": true,
-            "has_no_token": false
+            "has_no_token": true
         },
         {
             "chain": "smartBCH",
@@ -526,6 +526,13 @@
             "has_unaudited": true,
             "has_token": true,
             "has_no_token": true
+        },
+        {
+            "chain": "Karura",
+            "has_audited": false,
+            "has_unaudited": true,
+            "has_token": true,
+            "has_no_token": false
         },
         {
             "chain": "Energi",
@@ -570,13 +577,6 @@
             "has_no_token": true
         },
         {
-            "chain": "Nahmii",
-            "has_audited": false,
-            "has_unaudited": true,
-            "has_token": true,
-            "has_no_token": false
-        },
-        {
             "chain": "ThunderCore",
             "has_audited": false,
             "has_unaudited": true,
@@ -584,11 +584,11 @@
             "has_no_token": true
         },
         {
-            "chain": "EnergyWeb",
+            "chain": "Nahmii",
             "has_audited": false,
             "has_unaudited": true,
             "has_token": true,
-            "has_no_token": true
+            "has_no_token": false
         },
         {
             "chain": "Ergo",
@@ -596,6 +596,13 @@
             "has_unaudited": true,
             "has_token": true,
             "has_no_token": false
+        },
+        {
+            "chain": "EnergyWeb",
+            "has_audited": false,
+            "has_unaudited": true,
+            "has_token": true,
+            "has_no_token": true
         },
         {
             "chain": "Lamden",
@@ -619,18 +626,18 @@
             "has_no_token": false
         },
         {
-            "chain": "Curio",
-            "has_audited": false,
-            "has_unaudited": true,
-            "has_token": true,
-            "has_no_token": false
-        },
-        {
             "chain": "Ubiq",
             "has_audited": false,
             "has_unaudited": true,
             "has_token": false,
             "has_no_token": true
+        },
+        {
+            "chain": "Curio",
+            "has_audited": false,
+            "has_unaudited": true,
+            "has_token": true,
+            "has_no_token": false
         },
         {
             "chain": "Polis",
@@ -750,6 +757,13 @@
             "chain": "Moonriver",
             "has_audited": true,
             "has_unaudited": false,
+            "has_token": true,
+            "has_no_token": false
+        },
+        {
+            "chain": "EOS",
+            "has_audited": false,
+            "has_unaudited": true,
             "has_token": true,
             "has_no_token": false
         },
@@ -884,8 +898,8 @@
         {
             "chain": "Celo",
             "has_audited": true,
-            "has_unaudited": false,
-            "has_token": false,
+            "has_unaudited": true,
+            "has_token": true,
             "has_no_token": true
         },
         {
@@ -924,11 +938,11 @@
             "has_no_token": false
         },
         {
-            "chain": "RSK",
+            "chain": "Stacks",
             "has_audited": false,
             "has_unaudited": true,
-            "has_token": false,
-            "has_no_token": true
+            "has_token": true,
+            "has_no_token": false
         },
         {
             "chain": "IoTeX",
@@ -938,7 +952,14 @@
             "has_no_token": false
         },
         {
-            "chain": "Tezos",
+            "chain": "RSK",
+            "has_audited": false,
+            "has_unaudited": true,
+            "has_token": false,
+            "has_no_token": true
+        },
+        {
+            "chain": "Secret",
             "has_audited": false,
             "has_unaudited": true,
             "has_token": true,
@@ -948,6 +969,13 @@
             "chain": "Algorand",
             "has_audited": true,
             "has_unaudited": false,
+            "has_token": true,
+            "has_no_token": false
+        },
+        {
+            "chain": "Tezos",
+            "has_audited": false,
+            "has_unaudited": true,
             "has_token": true,
             "has_no_token": false
         },
@@ -1011,7 +1039,7 @@
         },
         {
             "chain": "Gnosis",
-            "has_audited": false,
+            "has_audited": true,
             "has_unaudited": true,
             "has_token": true,
             "has_no_token": false
@@ -1035,7 +1063,7 @@
             "has_audited": true,
             "has_unaudited": false,
             "has_token": true,
-            "has_no_token": false
+            "has_no_token": true
         },
         {
             "chain": "Solana",
@@ -1129,6 +1157,13 @@
             "has_no_token": false
         },
         {
+            "chain": "Waves",
+            "has_audited": true,
+            "has_unaudited": false,
+            "has_token": true,
+            "has_no_token": false
+        },
+        {
             "chain": "Parallel",
             "has_audited": false,
             "has_unaudited": true,
@@ -1136,7 +1171,7 @@
             "has_no_token": true
         },
         {
-            "chain": "Waves",
+            "chain": "Oasis",
             "has_audited": true,
             "has_unaudited": false,
             "has_token": true,
@@ -1148,13 +1183,6 @@
             "has_unaudited": false,
             "has_token": true,
             "has_no_token": true
-        },
-        {
-            "chain": "Oasis",
-            "has_audited": true,
-            "has_unaudited": false,
-            "has_token": true,
-            "has_no_token": false
         },
         {
             "chain": "EOS",
@@ -1183,6 +1211,13 @@
             "has_unaudited": false,
             "has_token": true,
             "has_no_token": false
+        },
+        {
+            "chain": "RSK",
+            "has_audited": true,
+            "has_unaudited": false,
+            "has_token": false,
+            "has_no_token": true
         },
         {
             "chain": "Ontology",
@@ -1275,7 +1310,7 @@
             "has_audited": true,
             "has_unaudited": false,
             "has_token": true,
-            "has_no_token": false
+            "has_no_token": true
         },
         {
             "chain": "Gnosis",
@@ -1338,7 +1373,7 @@
             "has_audited": true,
             "has_unaudited": false,
             "has_token": true,
-            "has_no_token": false
+            "has_no_token": true
         },
         {
             "chain": "KCC",
@@ -1427,11 +1462,25 @@
             "has_no_token": true
         },
         {
+            "chain": "Arbitrum",
+            "has_audited": true,
+            "has_unaudited": false,
+            "has_token": true,
+            "has_no_token": false
+        },
+        {
             "chain": "Gnosis",
             "has_audited": false,
             "has_unaudited": true,
             "has_token": false,
             "has_no_token": true
+        },
+        {
+            "chain": "Optimism",
+            "has_audited": false,
+            "has_unaudited": true,
+            "has_token": true,
+            "has_no_token": false
         },
         {
             "chain": "BSC",
@@ -1475,7 +1524,7 @@
             "has_audited": true,
             "has_unaudited": true,
             "has_token": true,
-            "has_no_token": false
+            "has_no_token": true
         },
         {
             "chain": "Avalanche",
@@ -1611,6 +1660,13 @@
             "has_no_token": false
         },
         {
+            "chain": "Klaytn",
+            "has_audited": false,
+            "has_unaudited": true,
+            "has_token": true,
+            "has_no_token": false
+        },
+        {
             "chain": "Velas",
             "has_audited": true,
             "has_unaudited": false,
@@ -1649,8 +1705,8 @@
         },
         {
             "chain": "Arbitrum",
-            "has_audited": false,
-            "has_unaudited": true,
+            "has_audited": true,
+            "has_unaudited": false,
             "has_token": true,
             "has_no_token": false
         },
@@ -1862,6 +1918,13 @@
             "has_no_token": false
         },
         {
+            "chain": "EOS",
+            "has_audited": false,
+            "has_unaudited": true,
+            "has_token": false,
+            "has_no_token": true
+        },
+        {
             "chain": "Tezos",
             "has_audited": true,
             "has_unaudited": false,
@@ -1943,6 +2006,13 @@
             "has_no_token": false
         },
         {
+            "chain": "Terra",
+            "has_audited": true,
+            "has_unaudited": false,
+            "has_token": true,
+            "has_no_token": false
+        },
+        {
             "chain": "Solana",
             "has_audited": true,
             "has_unaudited": false,
@@ -1992,6 +2062,13 @@
             "has_no_token": false
         },
         {
+            "chain": "Theta",
+            "has_audited": false,
+            "has_unaudited": true,
+            "has_token": true,
+            "has_no_token": false
+        },
+        {
             "chain": "Ultra",
             "has_audited": true,
             "has_unaudited": false,
@@ -2002,13 +2079,6 @@
             "chain": "EOS",
             "has_audited": true,
             "has_unaudited": false,
-            "has_token": true,
-            "has_no_token": false
-        },
-        {
-            "chain": "Theta",
-            "has_audited": false,
-            "has_unaudited": true,
             "has_token": true,
             "has_no_token": false
         },
@@ -2095,7 +2165,7 @@
         },
         {
             "chain": "Fantom",
-            "has_audited": false,
+            "has_audited": true,
             "has_unaudited": true,
             "has_token": true,
             "has_no_token": false
@@ -2741,6 +2811,13 @@
         },
         {
             "chain": "KCC",
+            "has_audited": false,
+            "has_unaudited": true,
+            "has_token": true,
+            "has_no_token": false
+        },
+        {
+            "chain": "EOS",
             "has_audited": false,
             "has_unaudited": true,
             "has_token": true,
