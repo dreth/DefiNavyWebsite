@@ -5,6 +5,8 @@ dapps: true
 subtitle: Dapps related to NFTs (non-fungible tokens) are often stores, games or other types of apps that leverage the power of non-fungible tokens to represent art, collectibles or other unique digital goods.
 ---
 
+Note: most NFT marketplaces are in the Ethereum network
+
 - [LooksRare](https://looksrare.org/){:target="_blank"}
 - [Opensea](https://Opensea.io){:target="_blank"}
 - [Rarible](https://rarible.com){:target="_blank"}

@@ -98,7 +98,7 @@ $.getJSON('/assets/data/categories.json', function(categories_chains) {
                     if (data[i]['is_audited']) {
                         linksGenerated += `<li><a href="${data[i]['url']}" target="_blank">${data[i]['name']}</a>&ensp;-&ensp;`
                         for (var k = 0; k < data[i]['audits'].length; k++) {
-                            linksGenerated += `<a href="${data[i]['audits'][k]}" target="_blank" class="auditLinks">(a)</a>&ensp;`
+                            linksGenerated += `<a href="${data[i]['audits'][k]}" target="_blank" class="auditLinks">📃</a>&ensp;`
                         }
                         linksGenerated += '</li>'
                     } else {
