@@ -150,6 +150,15 @@ for protocol in protocols_data['protocols']:
         continue
 
 # %%
+# remove protocols that have no chain (why wouldnt they?)
+for protocol in protocols_data['protocols']:
+    try:
+        protocol['chains']
+    except:
+        del protocol
+
+
+# %%
 chains_protocols_audit = {chain:{'audited':defaultdict(list), 'unaudited':defaultdict(list)} for chain in chains}
 
 for chain in chains:
