@@ -4,6 +4,11 @@ tags: [utilities]
 subtitle: Useful sites to watch Ethereum-related metrics like client diversity, gas fees...
 ---
 
+### General links
+
+- [Ethereum.org](https://ethereum.org){:target="_blank"}
+- [Ethereum staking launchpad](https://launchpad.ethereum.org/en/){:target="_blank"}
+
 ### General Ethereum network health and decentralization metrics dashboard
 
 - [Project Sunshine](https://ethsunshine.com/){:target="_blank"}
@@ -24,6 +29,7 @@ subtitle: Useful sites to watch Ethereum-related metrics like client diversity, 
 
 - [EthStaker hardware for staking guide](https://old.reddit.com/r/ethstaker/comments/rizos9/hardware_for_staking_2022_edition/){:target="_blank"}
 - [SomerEsat staking guide links](https://github.com/SomerEsat/ethereum-staking-guide){:target="_blank"}
+- [Consensus and Execution client switching guides](https://clientdiversity.org/#switch){:target="_blank"}
 
 ### Ethereum gas trackers
 
