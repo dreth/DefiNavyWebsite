@@ -4,6 +4,10 @@ tags: [utilities]
 subtitle: Useful sites to watch Ethereum-related metrics like client diversity, gas fees...
 ---
 
+### General Ethereum network health and decentralization metrics
+
+- [Project Sunshine](https://ethsunshine.com/){:target="_blank"}
+
 ### Ethereum client diversity tracking websites
 
 - [ClientDiversity.org](https://clientdiversity.org/){:target="_blank"}
