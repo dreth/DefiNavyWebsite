@@ -4,16 +4,21 @@ tags: [utilities]
 subtitle: Useful sites to watch Ethereum-related metrics like client diversity, gas fees...
 ---
 
-### General Ethereum network health and decentralization metrics
+### General Ethereum network health and decentralization metrics dashboard
 
 - [Project Sunshine](https://ethsunshine.com/){:target="_blank"}
 
+### Beaconchain validator ratings
+
+- [Rated network](https://www.rated.network/){:target="_blank"}
+
 ### Ethereum client diversity tracking websites
 
+- [Miga Labs' dashboard](http://migalabs.es/crawler/dashboard){:target="_blank"}
 - [ClientDiversity.org](https://clientdiversity.org/){:target="_blank"}
-- [Stereum client diversity watch](https://stereum.net/client-diversity-watch/){:target="_blank"} (no longer being issued)
 - [Slashed.info, slashing penalties per client](https://www.slashed.info/){:target="_blank"}
 - [Prysm usage for popular staking pools](https://pools.invis.cloud/){:target="_blank"}
+- [Stereum client diversity watch](https://stereum.net/client-diversity-watch/){:target="_blank"} (no longer being issued)
 
 ### Ethereum gas trackers
 
