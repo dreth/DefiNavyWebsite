@@ -7,12 +7,12 @@
 // Variables
 // ========================================================================
 
-$card-hover-background:                         $global-background !default;
+$card-hover-background:                         $global-secondary-background !default;
 
 $card-default-background:                       $global-background !default;
-$card-default-hover-background:                 $card-default-background !default;
+$card-default-hover-background:                 $global-secondary-background !default;
 
-$card-primary-hover-background:                 $card-primary-background !default;
+$card-primary-hover-background:                 $global-secondary-background !default;
 
 $card-secondary-hover-background:               $card-secondary-background !default;
 

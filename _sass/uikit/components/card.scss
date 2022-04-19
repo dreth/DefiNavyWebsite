@@ -49,12 +49,12 @@ $card-title-line-height:                        1.4 !default;
 $card-badge-top:                                $global-gutter !default;
 $card-badge-right:                              $card-badge-top !default;
 
-$card-hover-background:                         $global-muted-background !default;
+$card-hover-background:                         $global-secondary-background !default;
 
 $card-default-background:                       $global-muted-background !default;
 $card-default-color:                            $global-color !default;
 $card-default-title-color:                      $global-emphasis-color !default;
-$card-default-hover-background:                 darken($card-default-background, 5%) !default;
+$card-default-hover-background:                 global-secondary-background !default;
 
 $card-primary-background:                       $global-primary-background !default;
 $card-primary-color:                            $global-inverse-color !default;
@@ -238,7 +238,7 @@ $card-large-footer-padding-vertical-l:          round($global-large-gutter / 2) 
 }
 
 .uk-card-default.uk-card-hover:hover {
-    background-color: $card-default-hover-background;
+    background-color: rgb(15, 15, 15);
     @if(mixin-exists(hook-card-default-hover)) {@include hook-card-default-hover();}
 }
 
