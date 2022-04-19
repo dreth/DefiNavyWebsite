@@ -1,5 +1,5 @@
 ---
-title: "Ethereum metrics"
+title: "Ethereum metrics and useful sites"
 tags: [utilities]
 subtitle: Useful sites to watch Ethereum-related metrics like client diversity, gas fees...
 ---
@@ -8,10 +8,6 @@ subtitle: Useful sites to watch Ethereum-related metrics like client diversity, 
 
 - [Project Sunshine](https://ethsunshine.com/){:target="_blank"}
 
-### Beaconchain validator ratings
-
-- [Rated network](https://www.rated.network/){:target="_blank"}
-
 ### Ethereum client diversity tracking websites
 
 - [Miga Labs' dashboard](http://migalabs.es/crawler/dashboard){:target="_blank"}
@@ -19,6 +15,15 @@ subtitle: Useful sites to watch Ethereum-related metrics like client diversity, 
 - [Slashed.info, slashing penalties per client](https://www.slashed.info/){:target="_blank"}
 - [Prysm usage for popular staking pools](https://pools.invis.cloud/){:target="_blank"}
 - [Stereum client diversity watch](https://stereum.net/client-diversity-watch/){:target="_blank"} (no longer being issued)
+
+### Beaconchain validator ratings
+
+- [Rated network](https://www.rated.network/){:target="_blank"}
+
+### Useful guides
+
+- [EthStaker hardware for staking guide](https://old.reddit.com/r/ethstaker/comments/rizos9/hardware_for_staking_2022_edition/){:target="_blank"}
+- [SomerEsat staking guide links](https://github.com/SomerEsat/ethereum-staking-guide){:target="_blank"}
 
 ### Ethereum gas trackers
 

@@ -1,7 +1,7 @@
 # Boxes include navigation
 
-- title: Ethereum metrics
-  desc: Sites that track Ethereum data
+- title: Ethereum metrics and useful sites
+  desc: Sites that track Ethereum data and other miscellaneous Ethereum-related useful sites
   icon: info
   doc: utilities_ethereum_metrics
 
