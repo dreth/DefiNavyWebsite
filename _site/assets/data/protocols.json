@@ -78,7 +78,7 @@
             "id": 4,
             "name": "AAVE",
             "category": "Lending",
-            "url": "https://aave.com",
+            "url": "https://aave.com\r\n",
             "has_token": true,
             "address": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
             "symbol": "AAVE",
